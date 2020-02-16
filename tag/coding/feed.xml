@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/coding/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-02-16T16:26:43+08:00</updated>
+  <updated>2020-02-16T16:33:21+08:00</updated>
   <id>http://localhost:4000/tag/coding/feed.xml</id>
 
   
@@ -44,10 +44,10 @@
 
   
     <entry>
-      <title type="html">coding</title>
-      <link href="http://localhost:4000/coding" rel="alternate" type="text/html" title="coding" />
-      <published>2019-01-03T16:00:00+08:00</published>
-      <updated>2019-01-03T16:00:00+08:00</updated>
+      <title type="html">Coding</title>
+      <link href="http://localhost:4000/coding" rel="alternate" type="text/html" title="Coding" />
+      <published>2019-01-13T16:00:00+08:00</published>
+      <updated>2019-01-13T16:00:00+08:00</updated>
       <id>http://localhost:4000/coding</id>
       <content type="html" xml:base="http://localhost:4000/coding">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
 &lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
