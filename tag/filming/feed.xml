@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/filming/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-02-16T13:54:22+08:00</updated>
+  <id>http://localhost:4000/tag/filming/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Ghost | </title>
+  
+
+  
+    <subtitle>Visual design / Program design</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Advanced Markdown tips</title>
+      <link href="http://localhost:4000/advanced-markdown" rel="alternate" type="text/html" title="Advanced Markdown tips" />
+      <published>2017-07-27T13:00:00+08:00</published>
+      <updated>2017-07-27T13:00:00+08:00</updated>
+      <id>http://localhost:4000/advanced-markdown</id>
+      <content type="html" xml:base="http://localhost:4000/advanced-markdown">&lt;p&gt;測試文章&lt;/p&gt;
+
+&lt;p&gt;以前在外面租屋，我的冰箱不是用來裝食物，而是底片，因為底片會有一股銀鹽味，不適合與食物放在一起，搬離前我將冰箱徹底清潔並拔插頭風乾，味道才消除。所以回老家後，為免污染家裡裝食物的冰箱，我便把底片存放在箱子裡。&lt;/p&gt;
+
+&lt;p&gt;停了很長一段時間沒有拍照，第一次去東京帶了十捲左右，大部份借給對攝影有興趣的同事，而我顧著玩剛買的iPhoneSE，錄了一堆影像，底片卻只拍了三捲，顆粒粗大跟變色是意料中事，只是這捲發霉特別嚴重。&lt;br /&gt;&lt;br /&gt;不過，我很喜歡。&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;camera:nikon em 50mmf1.8 &lt;br /&gt;
+film:agfa vista200 (expired film) &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/t02.jpg#&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/t04.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/t03.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/t07.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/t08.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/t10.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/t11.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/t12.jpg&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="filming" />
+      
+
+      
+        <summary type="html">測試文章</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
