@@ -44,7 +44,7 @@
     <meta property="og:site_name" content="Swing Gao" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Lotto 樂透" />
-    <meta property="og:description" content="Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Random 42 numbers and add 6 of them to HashSet. private static int ballnumber; private static Set balllist = new HashSet(); public void NumberRandom() { balllist.clear(); while (true) { ballnumber = (int) (Math.random() * 42 + 1); balllist.add(ballnumber); if (balllist.size() ==" />
+    <meta property="og:description" content="Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) 這個小程式練習，對於我這個Java幼幼班而言，還是花了滿多時間修改，一開始用比較笨的方式慢慢刻，讓程式能跑再說，之後才又一步步將程式打包簡化。看著程式愈變愈短，其實挺有成就感的，而且我喜歡動畫，即使是簡單的數字變化也做的很開心，文章最後附上影片Demo。 Random 42 numbers and add 6 of them to HashSet. 設定變數 ballnumber 與一個可裝這些數字的陣列 balllist。陣列選擇 HashSet 的原因是裡面的東西不會重複，所以萬一 Math.random() 跑出的號碼跟之前的一樣就不會被放入，亂數迴圈直到裝滿六個號碼才停止。 Iterate over a HashSet and set TextViews. 先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(通常會這麼說的都不會做)。因為 HashSet 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 iterator()" />
     <meta property="og:url" content="http://localhost:4000android_lotto" />
     <meta property="og:image" content="http://localhost:4000assets/images/android.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/ghost" />
@@ -54,7 +54,7 @@
     <meta property="article:tag" content="Coding" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Lotto 樂透" />
-    <meta name="twitter:description" content="Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Random 42 numbers and add 6 of them to HashSet. private static int ballnumber; private static Set balllist = new HashSet(); public void NumberRandom() { balllist.clear(); while (true) { ballnumber = (int) (Math.random() * 42 + 1); balllist.add(ballnumber); if (balllist.size() ==" />
+    <meta name="twitter:description" content="Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) 這個小程式練習，對於我這個Java幼幼班而言，還是花了滿多時間修改，一開始用比較笨的方式慢慢刻，讓程式能跑再說，之後才又一步步將程式打包簡化。看著程式愈變愈短，其實挺有成就感的，而且我喜歡動畫，即使是簡單的數字變化也做的很開心，文章最後附上影片Demo。 Random 42 numbers and add 6 of them to HashSet. 設定變數 ballnumber 與一個可裝這些數字的陣列 balllist。陣列選擇 HashSet 的原因是裡面的東西不會重複，所以萬一 Math.random() 跑出的號碼跟之前的一樣就不會被放入，亂數迴圈直到裝滿六個號碼才停止。 Iterate over a HashSet and set TextViews. 先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(通常會這麼說的都不會做)。因為 HashSet 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 iterator()" />
     <meta name="twitter:url" content="http://localhost:4000" />
     <meta name="twitter:image" content="http://localhost:4000assets/images/android.jpg" />
     <meta name="twitter:label1" content="Written by" />
@@ -86,7 +86,7 @@
         "@type": "WebPage",
         "@id": "http://localhost:4000android_lotto"
     },
-    "description": "Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Random 42 numbers and add 6 of them to HashSet. private static int ballnumber; private static Set balllist = new HashSet(); public void NumberRandom() { balllist.clear(); while (true) { ballnumber = (int) (Math.random() * 42 + 1); balllist.add(ballnumber); if (balllist.size() =="
+    "description": "Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) 這個小程式練習，對於我這個Java幼幼班而言，還是花了滿多時間修改，一開始用比較笨的方式慢慢刻，讓程式能跑再說，之後才又一步步將程式打包簡化。看著程式愈變愈短，其實挺有成就感的，而且我喜歡動畫，即使是簡單的數字變化也做的很開心，文章最後附上影片Demo。 Random 42 numbers and add 6 of them to HashSet. 設定變數 ballnumber 與一個可裝這些數字的陣列 balllist。陣列選擇 HashSet 的原因是裡面的東西不會重複，所以萬一 Math.random() 跑出的號碼跟之前的一樣就不會被放入，亂數迴圈直到裝滿六個號碼才停止。 Iterate over a HashSet and set TextViews. 先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(通常會這麼說的都不會做)。因為 HashSet 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 iterator()"
 }
     </script>
 
@@ -203,138 +203,30 @@ into the {body} of the default.hbs template -->
 
 <!--圖片-->
 <p><img src="assets/images/android01.jpg" width="100%" hieght=auto /></p>
-
+<p>
+這個小程式練習，對於我這個Java幼幼班而言，還是花了滿多時間修改，一開始用比較笨的方式慢慢刻，讓程式能跑再說，之後才又一步步將程式打包簡化。看著程式愈變愈短，其實挺有成就感的，而且我喜歡動畫，即使是簡單的數字變化也做的很開心，文章最後附上影片Demo。
+</p>
 <hr>
-
-
 <h6 id="heading6">Random 42 numbers and add 6 of them to HashSet.</h6>
+<p><img src="assets/images/javacode01.jpg" width=900 height=auto /></p>
 
-<!--程式區塊-->
-<pre> 
-      
-    private static int ballnumber;
-    private static Set balllist = new HashSet();
-    
-    public void NumberRandom() {
-        balllist.clear();
-        while (true) {
-            ballnumber = (int) (Math.random() * 42 + 1);
-            balllist.add(ballnumber);
-            if (balllist.size() == 6) break;
-        }
-    }       
-        
-</pre>
 <p>設定變數 ballnumber 與一個可裝這些數字的陣列 balllist。陣列選擇 <code><b>HashSet</b></code> 的原因是裡面的東西不會重複，所以萬一 <code><b>Math.random()</b></code> 跑出的號碼跟之前的一樣就不會被放入，亂數迴圈直到裝滿六個號碼才停止。</p>
 
 <h6 id="heading6">Iterate over a HashSet and set TextViews.</h6>
-<pre> 
-      
-    private Iterator ball;
-    private static TextView notv;
-    private static int notvid;
-    private static int[] notvids;
-    notvids = {R.id.ball01, R.id.ball02, R.id.ball03, R.id.ball04, R.id.ball05, R.id.ball06};
-    private StringBuilder sb = new StringBuilder();
-    
-    public void Display() {
-    ball = balllist.iterator();
-    while (ball.hasNext()) { 
-        int i = -1;
-        i++;
-        switch (i) {
-            case 0: notvid = notvids[0]; settvno();
-            case 1: notvid = notvids[1]; settvno();
-            case 2: notvid = notvids[2]; settvno();
-            case 3: notvid = notvids[3]; settvno();
-            case 4: notvid = notvids[4]; settvno();
-            case 5: notvid = notvids[5]; settvno();
-            default: break;
-            }
-        }
-    }       
-     
-</pre>
-<pre> 
-    
-     public void settvno() {
-        sb.delete(0, sb.length());
-        notv = findViewById(notvid);
-        Object obj = ball.next();
-
-        if (obj instanceof Integer) {
-            if ((int) obj < 10) { sb.append("0").append(obj); } 
-                           else { sb.append(obj); }
-        }
-        notv.setText(sb);
-        notv.setBackgroundResource(R.drawable.cycle);
-    }        
-        
-   
-</pre>
+<p><img src="assets/images/javacode02.jpg" width=900 height=auto /></p>
+<p><img src="assets/images/javacode03.jpg" width=900 height=auto /></p>
 
 <p>先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(<s>通常會這麼說的都不會做</s>)。<br>因為 <code><b>HashSet</b></code> 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 <code><b>iterator()</b></code> 方法取出。另外，將數字放入 TextView 的部份一直重複使用，所以將它們打包成 settvno()，而數字 0~9 因為是個位數，在做動畫時，個位數跟二位數轉換時會有跳動感，所以做了一個如果是個位數就在前面補零的判斷。</p> 
 
 <h6 id="heading6">Create class that implements Runnable , then Handler to post.</h6>
-<pre> 
-      
-    private Handler handler = new Handler();
-    private Runnable starttask = new Startno();
-    private Runnable stoptask = new Stopno();
-
-    private class Startno implements Runnable {        
-        public void run() {
-            NumberRandom();
-            Display();
-            handler.postDelayed(this, 20); 
-        }
-    }
-
-    private class Stopno implements Runnable {        
-        public void run() {
-            handler.removeCallbacks(starttask);
-        }
-    }
-        
-</pre>
+<p><img src="assets/images/javacode04.jpg" width=900 height=auto /></p>
 
 <p><code><b>Handler</b></code> 與 <code><b>Runnable</b></code> 是對好用的夥伴，只要 <code><b>Handler</b></code> 重複執行 <code><b>Runnable</b></code> 裡的函式，就可以拿來做動畫。這裡 <code><b>Handler</b></code> 每 0.2 秒重新 <code><b>Math.random()</b></code> 一組號碼並顯示，製造號碼翻動的效果。不過這是六個號碼一起變動，如果想要一個一個照順序開始或停止，就得重新思考一下其他寫法。</p>
 
 <h6 id="heading6">Button onClick.</h6>
-<pre> 
-    
-    private Button btnstart = findViewById(R.id.start);
-    private Button btnstop = findViewById(R.id.stop); // invisible
-    private Button btnclear = findViewById(R.id.clear); // Enabled(false);
-    private GradientDrawable btncolor = (GradientDrawable) btnclear.getBackground();
-                             btncolor.setColor(Color.parseColor("#aaaaaa"));
-    
-    public void Start(View view) {
-        handler.post(starttask);
-        btnstart.setVisibility(view.INVISIBLE);
-        btnstop.setVisibility(view.VISIBLE);
-    }
+<p><img src="assets/images/javacode05.jpg" width=900 height=auto /></p>
 
-    public void Stop(View view) {
-        handler.post(stoptask);
-        btnstop.setVisibility(view.INVISIBLE);
-        btnstart.setVisibility(view.VISIBLE);
-        btnclear.setEnabled(true);
-        btncolor.setColor(Color.parseColor("#3D998D"));
-    }
-
-    public void Clear(View view) {
-        for(int i=0;i<6;i++){
-            notv = findViewById(notvids[i]);
-            notv.setText("");
-            notv.setBackgroundResource(R.drawable.cycle02);
-            btncolor.setColor(Color.parseColor("#aaaaaa"));
-        }
-    }  
-
-        
-</pre>
-<p>一開始練習時只有寫 start 與 stop 兩個 <code><b>Button</b></code> ，後來新增一顆 clear，發現塞三顆按鈕畫面變得好醜(<s>對我就是一堆毛</s>)。後來就把 start 與 stop 兩顆位置疊在一起，只是一開始讓 stop <code><b>view.INVISIBLE</b></code> 隱藏起來，並讓 clear <code><b>enable(false)</b></code> ，當按下 start 後， stop 才設為 <code><b>view.VISIBLE</b></code> ，下面為手機 demo 影片。</p>
+<p>一開始練習時只有寫 start 與 stop 兩個 <code><b>Button</b></code> ，後來新增一顆 clear，發現塞三顆按鈕畫面變得好醜(<s>對我就是一堆毛</s>)。所以把 start 與 stop 兩顆位置疊在一起，只是一開始讓 stop <code><b>view.INVISIBLE</b></code> 隱藏起來，並讓 clear 先失效 <code><b>enable(false)</b></code> ，當按下 start 後， stop 才設為 <code><b>view.VISIBLE</b></code> ，附上手機 Demo 影片。</p>
 
 <script language="javascript">
 function Size(x){
@@ -351,6 +243,7 @@ if(x=='big'){
 您的瀏覽器不支援此 HTML5 影片標籤
 </video>
 
+
 <!--
 <video loop="true" autoplay="autoplay"  muted="true" width="640" height="480">
          <source type="video/mp4" src="assets/images/preview.mp4"></source>
@@ -361,16 +254,8 @@ if(x=='big'){
 
 <hr>
 
-<p>
-這個小程式練習，對於我這個Java幼幼班而言，還是花了很多時間修改，一開始用比較笨的方式一行行刻，讓程式能跑再說，之後才又一步步將程式打包簡化。看著程式愈變愈短，其實挺有成就感的。而且我喜歡動畫，即使是簡單的數字變化也做的很開心。
-</p>
-
-<p>另外，我偏財運一向不怎麼樣，但<s>有夢最美</s>。剛寫完這個小程式，我就用裡面隨機跑出來的號碼買了兩張樂透。
+<p>我偏財運一向不怎麼樣，但<s>有夢最美</s>。剛寫完這個小程式，我就用裡面隨機跑出來的號碼買了兩張樂透。
 <br><br>嗯，事實證明，我還是把錢拿去買咖啡比較實際。</p>
-
-
-
-
                 </div>
             </section>
 

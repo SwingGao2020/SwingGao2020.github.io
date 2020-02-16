@@ -44,7 +44,7 @@
     <meta property="og:site_name" content="Swing Gao" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Coding" />
-    <meta property="og:description" content="Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Random 42 numbers and add 6 of them to HashSet. private static int ballnumber; private static Set balllist = new HashSet(); public void NumberRandom() { balllist.clear(); while (true) { ballnumber = (int) (Math.random() * 42 + 1); balllist.add(ballnumber); if (balllist.size() ==" />
+    <meta property="og:description" content="Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Iterate over a HashSet and set TextViews. 先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(通常會這麼說的都不會做)。因為 HashSet 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 iterator() 方法取出。另外，將數字放入 TextView 的部份一直重複使用，所以將它們打包成 settvno()，而數字 0~9 因為是個位數，在做動畫時，個位數跟二位數轉換時會有跳動感，所以做了一個如果是個位數就在前面補零的判斷。 Create class that implements Runnable , then Handler to post. private Handler handler" />
     <meta property="og:url" content="http://localhost:4000coding" />
     <meta property="og:image" content="http://localhost:4000assets/images/android.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/ghost" />
@@ -54,7 +54,7 @@
     <meta property="article:tag" content="Coding" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Coding" />
-    <meta name="twitter:description" content="Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Random 42 numbers and add 6 of them to HashSet. private static int ballnumber; private static Set balllist = new HashSet(); public void NumberRandom() { balllist.clear(); while (true) { ballnumber = (int) (Math.random() * 42 + 1); balllist.add(ballnumber); if (balllist.size() ==" />
+    <meta name="twitter:description" content="Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Iterate over a HashSet and set TextViews. 先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(通常會這麼說的都不會做)。因為 HashSet 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 iterator() 方法取出。另外，將數字放入 TextView 的部份一直重複使用，所以將它們打包成 settvno()，而數字 0~9 因為是個位數，在做動畫時，個位數跟二位數轉換時會有跳動感，所以做了一個如果是個位數就在前面補零的判斷。 Create class that implements Runnable , then Handler to post. private Handler handler" />
     <meta name="twitter:url" content="http://localhost:4000" />
     <meta name="twitter:image" content="http://localhost:4000assets/images/android.jpg" />
     <meta name="twitter:label1" content="Written by" />
@@ -86,7 +86,7 @@
         "@type": "WebPage",
         "@id": "http://localhost:4000coding"
     },
-    "description": "Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Random 42 numbers and add 6 of them to HashSet. private static int ballnumber; private static Set balllist = new HashSet(); public void NumberRandom() { balllist.clear(); while (true) { ballnumber = (int) (Math.random() * 42 + 1); balllist.add(ballnumber); if (balllist.size() =="
+    "description": "Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible) Iterate over a HashSet and set TextViews. 先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(通常會這麼說的都不會做)。因為 HashSet 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 iterator() 方法取出。另外，將數字放入 TextView 的部份一直重複使用，所以將它們打包成 settvno()，而數字 0~9 因為是個位數，在做動畫時，個位數跟二位數轉換時會有跳動感，所以做了一個如果是個位數就在前面補零的判斷。 Create class that implements Runnable , then Handler to post. private Handler handler"
 }
     </script>
 
@@ -206,72 +206,11 @@ into the {body} of the default.hbs template -->
 
 <hr>
 
-
-<h6 id="heading6">Random 42 numbers and add 6 of them to HashSet.</h6>
-
-<!--程式區塊-->
-<pre> 
-      
-    private static int ballnumber;
-    private static Set balllist = new HashSet();
-    
-    public void NumberRandom() {
-        balllist.clear();
-        while (true) {
-            ballnumber = (int) (Math.random() * 42 + 1);
-            balllist.add(ballnumber);
-            if (balllist.size() == 6) break;
-        }
-    }       
-        
-</pre>
-<p>設定變數 ballnumber 與一個可裝這些數字的陣列 balllist。陣列選擇 <code><b>HashSet</b></code> 的原因是裡面的東西不會重複，所以萬一 <code><b>Math.random()</b></code> 跑出的號碼跟之前的一樣就不會被放入，亂數迴圈直到裝滿六個號碼才停止。</p>
-
 <h6 id="heading6">Iterate over a HashSet and set TextViews.</h6>
-<pre> 
-      
-    private Iterator ball;
-    private static TextView notv;
-    private static int notvid;
-    private static int[] notvids;
-    notvids = {R.id.ball01, R.id.ball02, R.id.ball03, R.id.ball04, R.id.ball05, R.id.ball06};
-    private StringBuilder sb = new StringBuilder();
-    
-    public void Display() {
-    ball = balllist.iterator();
-    while (ball.hasNext()) { 
-        int i = -1;
-        i++;
-        switch (i) {
-            case 0: notvid = notvids[0]; settvno();
-            case 1: notvid = notvids[1]; settvno();
-            case 2: notvid = notvids[2]; settvno();
-            case 3: notvid = notvids[3]; settvno();
-            case 4: notvid = notvids[4]; settvno();
-            case 5: notvid = notvids[5]; settvno();
-            default: break;
-            }
-        }
-    }       
-     
-</pre>
-<pre> 
-    
-     public void settvno() {
-        sb.delete(0, sb.length());
-        notv = findViewById(notvid);
-        Object obj = ball.next();
 
-        if (obj instanceof Integer) {
-            if ((int) obj < 10) { sb.append("0").append(obj); } 
-                           else { sb.append(obj); }
-        }
-        notv.setText(sb);
-        notv.setBackgroundResource(R.drawable.cycle);
-    }        
-        
-   
-</pre>
+<p><img src="assets/images/javacode01.jpg" width=900 height=auto /></p>
+<p><img src="assets/images/javacode02.jpg" width=900 height=auto /></p>
+
 
 <p>先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(<s>通常會這麼說的都不會做</s>)。<br>因為 <code><b>HashSet</b></code> 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 <code><b>iterator()</b></code> 方法取出。另外，將數字放入 TextView 的部份一直重複使用，所以將它們打包成 settvno()，而數字 0~9 因為是個位數，在做動畫時，個位數跟二位數轉換時會有跳動感，所以做了一個如果是個位數就在前面補零的判斷。</p> 
 
@@ -367,10 +306,6 @@ if(x=='big'){
 
 <p>另外，我偏財運一向不怎麼樣，但<s>有夢最美</s>。剛寫完這個小程式，我就用裡面隨機跑出來的號碼買了兩張樂透。
 <br><br>嗯，事實證明，我還是把錢拿去買咖啡比較實際。</p>
-
-
-
-
                 </div>
             </section>
 
