@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/snapshot/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-02-16T20:44:41+08:00</updated>
+  <updated>2020-02-17T01:09:52+08:00</updated>
   <id>http://localhost:4000/tag/snapshot/feed.xml</id>
 
   
@@ -61,7 +61,7 @@ camera:nikon em 50mmf1.8 &lt;br&gt;
 film:agfa vista200 (expired film) &lt;br&gt;
 &lt;br&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/t02.jpg#&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/t02.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/t04.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/t03.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/t07.jpg&quot;/&gt;&lt;/p&gt;
