@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/filming/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/tag/design/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
   <updated>2020-02-16T15:04:13+08:00</updated>
-  <id>http://localhost:4000/tag/filming/feed.xml</id>
+  <id>http://localhost:4000/tag/design/feed.xml</id>
 
   
   
@@ -44,10 +44,10 @@
 
   
     <entry>
-      <title type="html">filming</title>
-      <link href="http://localhost:4000/filming" rel="alternate" type="text/html" title="filming" />
-      <published>2020-02-11T15:00:00+08:00</published>
-      <updated>2020-02-11T15:00:00+08:00</updated>
+      <title type="html">test02</title>
+      <link href="http://localhost:4000/filming" rel="alternate" type="text/html" title="test02" />
+      <published>2020-01-02T15:00:00+08:00</published>
+      <updated>2020-01-02T15:00:00+08:00</updated>
       <id>http://localhost:4000/filming</id>
       <content type="html" xml:base="http://localhost:4000/filming">&lt;h2&gt;我有一堆過期底片。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;以前在外面租屋，我的冰箱不是用來裝食物，而是底片，因為底片會有一股銀鹽味，不適合與食物放在一起，搬離前我將冰箱徹底清潔並拔插頭風乾，味道才消除。所以回老家後，為免污染家裡裝食物的冰箱，我便把底片存放在箱子裡。&lt;/p&gt;
@@ -85,7 +85,7 @@ film:agfa vista200 (expired film) &lt;br&gt;
       
 
       
-        <category term="filming" />
+        <category term="design" />
       
 
       
@@ -98,11 +98,11 @@ film:agfa vista200 (expired film) &lt;br&gt;
   
     <entry>
       <title type="html">test01</title>
-      <link href="http://localhost:4000/coding" rel="alternate" type="text/html" title="test01" />
+      <link href="http://localhost:4000/design" rel="alternate" type="text/html" title="test01" />
       <published>2019-01-03T16:00:00+08:00</published>
       <updated>2019-01-03T16:00:00+08:00</updated>
-      <id>http://localhost:4000/coding</id>
-      <content type="html" xml:base="http://localhost:4000/coding">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
+      <id>http://localhost:4000/design</id>
+      <content type="html" xml:base="http://localhost:4000/design">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
 &lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
 
 
@@ -288,7 +288,7 @@ if(x=='big'){
       
 
       
-        <category term="filming" />
+        <category term="design" />
       
 
       
