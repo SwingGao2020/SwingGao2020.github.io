@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/coding/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-02-16T15:04:13+08:00</updated>
+  <updated>2020-02-16T15:19:34+08:00</updated>
   <id>http://localhost:4000/tag/coding/feed.xml</id>
 
   
@@ -44,12 +44,12 @@
 
   
     <entry>
-      <title type="html">Lotto 樂透</title>
-      <link href="http://localhost:4000/android_lotto" rel="alternate" type="text/html" title="Lotto 樂透" />
-      <published>2019-01-01T16:00:00+08:00</published>
-      <updated>2019-01-01T16:00:00+08:00</updated>
-      <id>http://localhost:4000/android_lotto</id>
-      <content type="html" xml:base="http://localhost:4000/android_lotto">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
+      <title type="html">coding</title>
+      <link href="http://localhost:4000/coding" rel="alternate" type="text/html" title="coding" />
+      <published>2019-01-03T16:00:00+08:00</published>
+      <updated>2019-01-03T16:00:00+08:00</updated>
+      <id>http://localhost:4000/coding</id>
+      <content type="html" xml:base="http://localhost:4000/coding">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
 &lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
 
 
@@ -248,11 +248,11 @@ if(x=='big'){
   
     <entry>
       <title type="html">Lotto 樂透</title>
-      <link href="http://localhost:4000/designt" rel="alternate" type="text/html" title="Lotto 樂透" />
+      <link href="http://localhost:4000/android_lotto" rel="alternate" type="text/html" title="Lotto 樂透" />
       <published>2019-01-01T16:00:00+08:00</published>
       <updated>2019-01-01T16:00:00+08:00</updated>
-      <id>http://localhost:4000/designt</id>
-      <content type="html" xml:base="http://localhost:4000/designt">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
+      <id>http://localhost:4000/android_lotto</id>
+      <content type="html" xml:base="http://localhost:4000/android_lotto">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
 &lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
 
 
