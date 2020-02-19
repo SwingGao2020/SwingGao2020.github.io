@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/coding/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-02-19T17:58:56+08:00</updated>
+  <updated>2020-02-19T22:55:27+08:00</updated>
   <id>http://localhost:4000/tag/coding/feed.xml</id>
 
   
@@ -42,6 +42,56 @@
   
   
 
+  
+    <entry>
+      <title type="html">GitHub &amp;amp; Jekyll</title>
+      <link href="http://localhost:4000/jekyll" rel="alternate" type="text/html" title="GitHub &amp;amp; Jekyll" />
+      <published>2019-02-19T16:00:00+08:00</published>
+      <updated>2019-02-19T16:00:00+08:00</updated>
+      <id>http://localhost:4000/jekyll</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;久違了，部落格。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有生疏的感覺，但我想自己會慢慢找回當時的熱情。&lt;/p&gt;
+&lt;p&gt;註：這隻可愛的娃娃圖取自&lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;官網。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll04.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;現成的部落格這麼多，只要開個帳號選個版型，就可以直接寫文章了，那麼我何必選擇一個全部要自己手動架設，中間卡了很久把自己搞個半死才總算能開始寫文章的部落格呢？(感覺怨氣很重XD)&lt;/p&gt;
+&lt;p&gt;最大的原因是，我可以自主修改前端所有語言，現成的部落格雖然方便但能動到的地方有限，自架網站可以隨意選擇喜歡的套件使用，自由度很高，而且網路上為 Jekyll 設計了很多好看的模版，目前的部落格就是取自 &lt;a href=&quot;http://jekyllthemes.org/&quot; target=&quot;_blank&quot;&gt;Jekyll Themes&lt;/a&gt; 其中一個版型。 ( 但它的語法不完全，有些連結跑掉了，我花了一些時間才搞定它 Orz ) &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll02.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+現在寫部落格，最常開的三個視窗，一個是網頁的編輯器 Breckets ，另外兩個是命令提示字元，一個用來跑 jekyll serve ，一個上傳檔案到 GitHub ，這跟以前寫部落格的方式有極大的差異，看起來有些麻煩。&lt;/p&gt;&lt;p&gt;
+不過，習慣是種可怕的東西，雖然我安裝了 admin ，可以使用下面這個看起來直覺的操作介面來新增文章，但用了一次後我就完全捨棄了，因為對於一個前端設計而言，直接拷貝 html 再修改內容反而是更快更直覺的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;對於有心想走前端設計的人而言，用 GitHub &amp;amp; Jekyll 架設一個部落格，會是一個很好的學習經驗，可以熟悉基本的 git 指令，了解版本控制，可以藉由修改版型與套件來熟悉前端語言。&lt;/p&gt;
+
+&lt;p&gt;就從申請一個 &lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt; 帳號開始吧！&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="coding" />
+      
+
+      
+        <summary type="html">久違了，部落格。 距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有生疏的感覺，但我想自己會慢慢找回當時的熱情。 註：這隻可愛的娃娃圖取自Jekyll官網。</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Lotto 樂透</title>
@@ -198,18 +248,8 @@ if(x=='big'){
 　document.getElementById(&quot;MovieShow2&quot;).height=234;
 }}
 &lt;/script&gt;
-&lt;video id=&quot;MovieShow2&quot; width=&quot;640&quot; height=&quot;480&quot; controls style=&quot;outline: none&quot; &gt;
-&lt;source src=&quot;assets/images/preview.mp4&quot; type=&quot;video/mp4&quot;&gt;
-您的瀏覽器不支援此 HTML5 影片標籤
-&lt;/video&gt;
 
-&lt;!--
-&lt;video loop=&quot;true&quot; autoplay=&quot;autoplay&quot;  muted=&quot;true&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;
-         &lt;source type=&quot;video/mp4&quot; src=&quot;assets/images/preview.mp4&quot;&gt;&lt;/source&gt;
-&lt;/video&gt;
---&gt;
-
-&lt;!--&lt;iframe src=&quot;https://player.vimeo.com/video/391011910&quot; width=&quot;640&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;--&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/391011910&quot; width=&quot;640&quot; height=&quot;480&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 &lt;hr&gt;
 
