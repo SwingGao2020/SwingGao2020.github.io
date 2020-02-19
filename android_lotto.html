@@ -413,6 +413,35 @@ if(x=='big'){
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
             
+            
+            
+           <p> <img src="/assets/images/background.jpg"/></p>
+            
+            
+            
+<!--            評論區                 -->
+           
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = 'http://localhost:4000';
+                            this.page.identifier = 'Swing Gao';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://SwingGao2020.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
+            
+            
+            
+            
+            
 
         </article>
 
@@ -742,6 +771,7 @@ $(document).ready(function () {
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
     <!-- ghost_foot -->
+
 
 </body>
 </html>
