@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/coding/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-02-23T00:06:02+08:00</updated>
+  <updated>2020-02-23T00:09:16+08:00</updated>
   <id>http://localhost:4000/tag/coding/feed.xml</id>
 
   
@@ -46,8 +46,8 @@
     <entry>
       <title type="html">Raspberry Pi</title>
       <link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" />
-      <published>2019-02-20T16:00:00+08:00</published>
-      <updated>2019-02-20T16:00:00+08:00</updated>
+      <published>2020-02-20T16:00:00+08:00</published>
+      <updated>2020-02-20T16:00:00+08:00</updated>
       <id>http://localhost:4000/raspberrypi</id>
       <content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
@@ -91,8 +91,8 @@
     <entry>
       <title type="html">GitHub &amp;amp; Jekyll</title>
       <link href="http://localhost:4000/jekyll" rel="alternate" type="text/html" title="GitHub &amp;amp; Jekyll" />
-      <published>2019-02-19T16:00:00+08:00</published>
-      <updated>2019-02-19T16:00:00+08:00</updated>
+      <published>2020-02-19T16:00:00+08:00</published>
+      <updated>2020-02-19T16:00:00+08:00</updated>
       <id>http://localhost:4000/jekyll</id>
       <content type="html" xml:base="http://localhost:4000/jekyll">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;久違了，部落格。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。&lt;/p&gt;
@@ -141,8 +141,8 @@
     <entry>
       <title type="html">Lotto 樂透</title>
       <link href="http://localhost:4000/android_lotto" rel="alternate" type="text/html" title="Lotto 樂透" />
-      <published>2019-01-01T16:00:00+08:00</published>
-      <updated>2019-01-01T16:00:00+08:00</updated>
+      <published>2020-01-01T16:00:00+08:00</published>
+      <updated>2020-01-01T16:00:00+08:00</updated>
       <id>http://localhost:4000/android_lotto</id>
       <content type="html" xml:base="http://localhost:4000/android_lotto">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
 &lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
