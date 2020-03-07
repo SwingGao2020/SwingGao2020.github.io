@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-07T12:33:08+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-07T23:53:01+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
 
 &lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
@@ -58,7 +58,50 @@ musician:Rook1e&lt;br&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/391815907&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;hr&gt;
 
-&lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Flash 曾經是我的最愛。 跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。</summary></entry><entry><title type="html">APP NOMO</title><link href="http://localhost:4000/tokyo_iphoneSE" rel="alternate" type="text/html" title="APP NOMO" /><published>2020-02-11T16:00:00+08:00</published><updated>2020-02-11T16:00:00+08:00</updated><id>http://localhost:4000/tokyo_iphoneSE</id><content type="html" xml:base="http://localhost:4000/tokyo_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Flash 曾經是我的最愛。 跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。</summary></entry><entry><title type="html">環島車站隨影</title><link href="http://localhost:4000/taiwantrain_iphoneSE" rel="alternate" type="text/html" title="環島車站隨影" /><published>2020-02-12T16:00:00+08:00</published><updated>2020-02-12T16:00:00+08:00</updated><id>http://localhost:4000/taiwantrain_iphoneSE</id><content type="html" xml:base="http://localhost:4000/taiwantrain_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了 32 天坐火車環島。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現東部在執行上有些困難(班次太少，有些三等站一天只停四班車)，所以還是只走比較大的站再結合腳踏車完成一趟環島旅行。&lt;/p&gt;
+
+&lt;p&gt;雖然帶了隨身的底片機，但這次環島大部分的相片還是來自手機，主要是拍攝比較方便，我很常隨興就按幾張，如果用底片的話我通常會考慮較多(畢竟每張都是錢 XD)，除了照片以外，也錄了很多縮時影片。&lt;/p&gt; 
+
+&lt;p&gt;隨機挑選了幾張並用軟體轉成黑白。&lt;/p&gt;
+
+&lt;hr&gt;
+camera:iphoneSE&lt;br&gt;
+edited in photoshop
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/train00.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train01.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train02.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train03.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train04.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train05.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train06.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train07.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train08.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train09.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train10.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train11.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train12.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train13.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train14.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train15.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train16.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train17.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train18.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train19.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train20.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train21.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train22.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train23.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train24.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train25.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train26.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train27.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train28.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train29.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train30.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">我花了 32 天坐火車環島。 離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現東部在執行上有些困難(班次太少，有些三等站一天只停四班車)，所以還是只走比較大的站再結合腳踏車完成一趟環島旅行。</summary></entry><entry><title type="html">APP NOMO</title><link href="http://localhost:4000/tokyo_iphoneSE" rel="alternate" type="text/html" title="APP NOMO" /><published>2020-02-11T16:00:00+08:00</published><updated>2020-02-11T16:00:00+08:00</updated><id>http://localhost:4000/tokyo_iphoneSE</id><content type="html" xml:base="http://localhost:4000/tokyo_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;數位攝影普及後，底片的玩家逐漸變成小眾，很多從數位入門的攝影玩家，常常無法理解底片玩家口中的底片味到底是什麼，認為所謂的底片味後製就可以達成。的確，我本身也喜歡用各種軟體後製，不論是手機的 APP 或是常用的 PS，我也認為自己有能力後製出一張&quot;很像&quot;底片拍出來的數位相片，但，不得不說，這之中是有實質而非&quot;純粹感覺&quot;上的差異。&lt;/p&gt;
 
 &lt;p&gt;主要的差異來自於色彩的階調、層次與濃度，在一開始紀錄顏色時，底片的紀錄方式跟數位 CCD 就不同，目前我看過最接近底片色彩紀錄的數位相機來自 SIGMA 這間老牌廠商，雖然 SIGMA 的機子在使用上有許多缺點，但相片的品質還是令許多玩家趨之若鶩，可以參考 &lt;a href=&quot;https://technews.tw/2019/03/09/sigma-foveon-x3-is-back/&quot; target=&quot;_blank&quot;&gt;SIGMA FF Foveon X3&lt;/a&gt; 感光元件的描述。
