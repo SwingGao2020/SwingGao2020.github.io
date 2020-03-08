@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-08T15:08:40+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-08T16:02:03+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
 
 &lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
@@ -58,7 +58,30 @@ musician:Rook1e&lt;br&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/391815907&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;hr&gt;
 
-&lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Flash 曾經是我的最愛。 跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。</summary></entry><entry><title type="html">漏光了不打算修</title><link href="http://localhost:4000/busan_olymplus" rel="alternate" type="text/html" title="漏光了不打算修" /><published>2020-02-14T16:00:00+08:00</published><updated>2020-02-14T16:00:00+08:00</updated><id>http://localhost:4000/busan_olymplus</id><content type="html" xml:base="http://localhost:4000/busan_olymplus">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;喵兔是我最愛的隨身機。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Flash 曾經是我的最愛。 跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。</summary></entry><entry><title type="html">秋之京都</title><link href="http://localhost:4000/kyoto_olymplus02" rel="alternate" type="text/html" title="秋之京都" /><published>2020-02-15T16:00:00+08:00</published><updated>2020-02-15T16:00:00+08:00</updated><id>http://localhost:4000/kyoto_olymplus02</id><content type="html" xml:base="http://localhost:4000/kyoto_olymplus02">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;比起東京我更愛京都。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，不過真正到時其實只紅了一點，但還是覺得很美。&lt;/p&gt;
+
+&lt;p&gt;京都是個步調和緩的地方，我們住的不是一般飯店，是像宿舍一樣含有小廚房的套房，那時每天回去都會順便去超商買簡單的食材，自己煮晚餐體驗生活在京都的日常(雖然我對烹飪並不擅長XD)。&lt;/p&gt; 
+
+&lt;p&gt;原本預定 2020 四月要再去一次京阪賞櫻，機票跟住宿也都訂好，卻因為肺炎流行不得不取消，覺得有些遺憾。&lt;/p&gt;
+
+&lt;hr&gt;
+camera:olympus mjuII&lt;br&gt;
+film:lomo color100 &amp;amp; my heart200 (expired film)
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/k12.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k13.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k17.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k14.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k15.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k16.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k19.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k18.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k22.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k20.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k21.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">比起東京我更愛京都。 當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，不過真正到時其實只紅了一點，但還是覺得很美。</summary></entry><entry><title type="html">漏光了不打算修</title><link href="http://localhost:4000/busan_olymplus" rel="alternate" type="text/html" title="漏光了不打算修" /><published>2020-02-14T16:00:00+08:00</published><updated>2020-02-14T16:00:00+08:00</updated><id>http://localhost:4000/busan_olymplus</id><content type="html" xml:base="http://localhost:4000/busan_olymplus">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;喵兔是我最愛的隨身機。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;olympus mjuII 被愛用者暱稱為喵兔，手邊這台黑喵跟了我好幾年，陪我看了許多風景，到釜山拍攝的相片洗出來才發現它漏光了，電池室的擋片也掉了一小塊，因為漏光的部份在邊緣，感覺還挺有 FU 的，所以我沒打算修它。&lt;/p&gt;
 
 &lt;p&gt;不過我最近確實在搜尋第二台喵兔當作備機，只是當時二手不到兩千的價，現在被哄抬至四、五千，有些買不下手(四、五千在當時可以買新機了)。雖然知道機會渺茫，但很希望 Olympus 公司能夠再次生產這台好用的機子，即使玩底片的是小眾，但這群人可都是非常死忠且願意掏錢的喲。&lt;/p&gt; 
@@ -109,7 +132,7 @@ film:fuji sensia100 EtoC (expired film)
 
 &lt;p&gt;雖然帶了隨身的底片機，但這次環島大部分的相片還是來自手機，主要是拍攝比較方便，我很常隨興就按幾張，如果用底片的話我通常會考慮較多(畢竟每張都是錢 XD)。&lt;/p&gt; 
 
-&lt;p&gt;這篇隨機挑選了幾張並用軟體轉成黑白。
+&lt;p&gt;我從中挑選了幾張並用軟體轉成黑白。
 
 &lt;/p&gt;
 
@@ -193,159 +216,4 @@ film:agfa vista200 (expired film) &lt;br&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/t08.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/t10.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/t11.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/t12.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">我有一堆過期底片。 以前在外面租屋，我的冰箱不是用來裝食物，而是底片，因為底片會有一股銀鹽味，不適合與食物放在一起，搬離前我將冰箱徹底清潔並拔插頭風乾，味道才消除。所以回老家後，為免污染家裡裝食物的冰箱，我便把底片存放在箱子裡。</summary></entry><entry><title type="html">Lotto 樂透</title><link href="http://localhost:4000/android_lotto" rel="alternate" type="text/html" title="Lotto 樂透" /><published>2020-01-01T16:00:00+08:00</published><updated>2020-01-01T16:00:00+08:00</updated><id>http://localhost:4000/android_lotto</id><content type="html" xml:base="http://localhost:4000/android_lotto">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
-&lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
-
-
-&lt;!--圖片--&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/android01.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
-&lt;p&gt;
-這個小程式練習，對於我這個Java幼幼班而言，還是花了滿多時間修改，一開始用比較笨的方式慢慢刻，讓程式能跑再說，之後才又一步步將程式打包簡化。看著程式愈變愈短，其實挺有成就感的，而且我喜歡動畫，即使是簡單的數字變化也做的很開心，完整程式碼於 &lt;a href=&quot;https://github.com/SwingGao2020/Lotto.git&quot; target =&quot;_blank&quot;&gt;GitHub&lt;/a&gt; 。
-&lt;/p&gt;
-&lt;hr&gt;
-&lt;h6 id=&quot;heading6&quot;&gt;Random 42 numbers and add 6 of them to HashSet.&lt;/h6&gt;
-
-&lt;!--程式區塊--&gt;
-&lt;pre&gt; 
-      
-    private static int ballnumber;
-    private static Set balllist = new HashSet();
-    
-    public void NumberRandom() {
-        balllist.clear();
-        while (true) {
-            ballnumber = (int) (Math.random() * 42 + 1);
-            balllist.add(ballnumber);
-            if (balllist.size() == 6) break;
-        }
-    }       
-        
-&lt;/pre&gt;
-&lt;p&gt;設定變數 ballnumber 與一個可裝這些數字的陣列 balllist。陣列選擇 &lt;code&gt;&lt;b&gt;HashSet&lt;/b&gt;&lt;/code&gt; 的原因是裡面的東西不會重複，所以萬一 &lt;code&gt;&lt;b&gt;Math.random()&lt;/b&gt;&lt;/code&gt; 跑出的號碼跟之前的一樣就不會被放入，亂數迴圈直到裝滿六個號碼才停止。&lt;/p&gt;
-
-&lt;h6 id=&quot;heading6&quot;&gt;Iterate over a HashSet and set TextViews.&lt;/h6&gt;
-&lt;pre&gt; 
-      
-    private Iterator ball;
-    private static TextView notv;
-    private static int notvid;
-    private static int[] notvids;
-    notvids = {R.id.ball01, R.id.ball02, R.id.ball03, R.id.ball04, R.id.ball05, R.id.ball06};
-    private StringBuilder sb = new StringBuilder();
-    
-    public void Display() {
-    ball = balllist.iterator();
-    while (ball.hasNext()) { 
-        int i = -1;
-        i++;
-        switch (i) {
-            case 0: notvid = notvids[0]; settvno();
-            case 1: notvid = notvids[1]; settvno();
-            case 2: notvid = notvids[2]; settvno();
-            case 3: notvid = notvids[3]; settvno();
-            case 4: notvid = notvids[4]; settvno();
-            case 5: notvid = notvids[5]; settvno();
-            default: break;
-            }
-        }
-    }       
-     
-&lt;/pre&gt;
-&lt;pre&gt; 
-    
-     public void settvno() {
-        sb.delete(0, sb.length());
-        notv = findViewById(notvid);
-        Object obj = ball.next();
-
-        if (obj instanceof Integer) {
-            if ((int) obj &lt; 10) { sb.append(&quot;0&quot;).append(obj); } 
-                           else { sb.append(obj); }
-        }
-        notv.setText(sb);
-        notv.setBackgroundResource(R.drawable.cycle);
-    }        
-        
-   
-&lt;/pre&gt;
-
-&lt;p&gt;先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(&lt;s&gt;通常會這麼說的都不會做&lt;/s&gt;)。&lt;br&gt;因為 &lt;code&gt;&lt;b&gt;HashSet&lt;/b&gt;&lt;/code&gt; 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 &lt;code&gt;&lt;b&gt;iterator()&lt;/b&gt;&lt;/code&gt; 方法取出。另外，將數字放入 TextView 的部份一直重複使用，所以將它們打包成 settvno()，而數字 0~9 因為是個位數，在做動畫時，個位數跟二位數轉換時會有跳動感，所以做了一個如果是個位數就在前面補零的判斷。&lt;/p&gt; 
-
-&lt;h6 id=&quot;heading6&quot;&gt;Create class that implements Runnable , then Handler to post.&lt;/h6&gt;
-&lt;pre&gt; 
-      
-    private Handler handler = new Handler();
-    private Runnable starttask = new Startno();
-    private Runnable stoptask = new Stopno();
-
-    private class Startno implements Runnable {        
-        public void run() {
-            NumberRandom();
-            Display();
-            handler.postDelayed(this, 20); 
-        }
-    }
-
-    private class Stopno implements Runnable {        
-        public void run() {
-            handler.removeCallbacks(starttask);
-        }
-    }
-        
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;code&gt;&lt;b&gt;Handler&lt;/b&gt;&lt;/code&gt; 與 &lt;code&gt;&lt;b&gt;Runnable&lt;/b&gt;&lt;/code&gt; 是對好用的夥伴，只要 &lt;code&gt;&lt;b&gt;Handler&lt;/b&gt;&lt;/code&gt; 重複執行 &lt;code&gt;&lt;b&gt;Runnable&lt;/b&gt;&lt;/code&gt; 裡的函式，就可以拿來做動畫。這裡 &lt;code&gt;&lt;b&gt;Handler&lt;/b&gt;&lt;/code&gt; 每 0.2 秒重新 &lt;code&gt;&lt;b&gt;Math.random()&lt;/b&gt;&lt;/code&gt; 一組號碼並顯示，製造號碼翻動的效果。不過這是六個號碼一起變動，如果想要一個一個照順序開始或停止，就得重新思考一下其他寫法。&lt;/p&gt;
-
-&lt;h6 id=&quot;heading6&quot;&gt;Button onClick.&lt;/h6&gt;
-&lt;pre&gt; 
-    
-    private Button btnstart = findViewById(R.id.start);
-    private Button btnstop = findViewById(R.id.stop); // invisible
-    private Button btnclear = findViewById(R.id.clear); // Enabled(false);
-    private GradientDrawable btncolor = (GradientDrawable) btnclear.getBackground();
-                             btncolor.setColor(Color.parseColor(&quot;#aaaaaa&quot;));
-    
-    public void Start(View view) {
-        handler.post(starttask);
-        btnstart.setVisibility(view.INVISIBLE);
-        btnstop.setVisibility(view.VISIBLE);
-    }
-
-    public void Stop(View view) {
-        handler.post(stoptask);
-        btnstop.setVisibility(view.INVISIBLE);
-        btnstart.setVisibility(view.VISIBLE);
-        btnclear.setEnabled(true);
-        btncolor.setColor(Color.parseColor(&quot;#3D998D&quot;));
-    }
-
-    public void Clear(View view) {
-        for(int i=0;i&lt;6;i++){
-            notv = findViewById(notvids[i]);
-            notv.setText(&quot;&quot;);
-            notv.setBackgroundResource(R.drawable.cycle02);
-            btncolor.setColor(Color.parseColor(&quot;#aaaaaa&quot;));
-        }
-    }  
-
-        
-&lt;/pre&gt;
-&lt;p&gt;一開始練習時只有寫 start 與 stop 兩個 &lt;code&gt;&lt;b&gt;Button&lt;/b&gt;&lt;/code&gt; ，後來新增一顆 clear，發現塞三顆按鈕畫面變得好醜(&lt;s&gt;對我就是一堆毛&lt;/s&gt;)。所以把 start 與 stop 兩顆位置疊在一起，只是一開始讓 stop &lt;code&gt;&lt;b&gt;view.INVISIBLE&lt;/b&gt;&lt;/code&gt; 隱藏起來，並讓 clear 先失效 &lt;code&gt;&lt;b&gt;enable(false)&lt;/b&gt;&lt;/code&gt; ，當按下 start 後， stop 才設為 &lt;code&gt;&lt;b&gt;view.VISIBLE&lt;/b&gt;&lt;/code&gt; ，下面為手機 demo 影片。&lt;/p&gt;
-
-&lt;script language=&quot;javascript&quot;&gt;
-function Size(x){
-if(x=='big'){
-　document.getElementById(&quot;MovieShow2&quot;).width=500;
-　document.getElementById(&quot;MovieShow2&quot;).height=450;
-}else if(x=='small'){
-　document.getElementById(&quot;MovieShow2&quot;).width=260;
-　document.getElementById(&quot;MovieShow2&quot;).height=234;
-}}
-&lt;/script&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/391011910&quot; width=&quot;640&quot; height=&quot;480&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;另外，我偏財運一向不怎麼樣，但&lt;s&gt;有夢最美&lt;/s&gt;。剛寫完這個小程式，我就用裡面隨機跑出來的號碼買了兩張樂透。
-&lt;br&gt;&lt;br&gt;嗯，事實證明，我還是把錢拿去買咖啡比較實際。&lt;/p&gt;</content><author><name></name></author><category term="coding" /><summary type="html">Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;assets/images/t12.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">我有一堆過期底片。 以前在外面租屋，我的冰箱不是用來裝食物，而是底片，因為底片會有一股銀鹽味，不適合與食物放在一起，搬離前我將冰箱徹底清潔並拔插頭風乾，味道才消除。所以回老家後，為免污染家裡裝食物的冰箱，我便把底片存放在箱子裡。</summary></entry></feed>
