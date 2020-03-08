@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/coding/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-03-08T18:46:22+08:00</updated>
+  <id>http://localhost:4000/tag/coding/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Swing Gao | </title>
+  
+
+  
+    <subtitle>Visual design / Program design</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">GitHub &amp;amp; Jekyll</title>
+      <link href="http://localhost:4000/web001_jekyll" rel="alternate" type="text/html" title="GitHub &amp;amp; Jekyll" />
+      <published>2020-01-10T16:00:00+08:00</published>
+      <updated>2020-01-10T16:00:00+08:00</updated>
+      <id>http://localhost:4000/web001_jekyll</id>
+      <content type="html" xml:base="http://localhost:4000/web001_jekyll">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;久違了，部落格。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。&lt;/p&gt;
+&lt;p&gt;註：這隻可愛的娃娃圖取自&lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;官網。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll04.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;不過現成的部落格這麼多，只要開個帳號選個版型，就可以直接寫文章了，那麼我何必選擇一個全部要自己手動架設，中間卡了很久把自己搞個半死才總算能開始寫文章的部落格呢？(感覺怨氣很重XD)&lt;/p&gt;
+&lt;p&gt;最大的原因是，我可以自主修改前端所有語言，現成的部落格雖然方便但能動到的地方有限，自架網站可以隨意選擇喜歡的套件使用，自由度很高，而且網路上為 Jekyll 設計了很多好看的模版，目前的部落格就是取自 &lt;a href=&quot;http://jekyllthemes.org/&quot; target=&quot;_blank&quot;&gt;Jekyll Themes&lt;/a&gt; 其中一個版型。 ( 但它的語法不完全，有些連結跑掉了，我花了一些時間才搞定它 Orz ) &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll02.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+現在寫部落格，最常開的三個視窗，一個是網頁的編輯器 Breckets ，另外兩個是命令提示字元，一個用來跑 jekyll serve ，一個上傳檔案到 GitHub ，這跟以前寫部落格的方式有極大的差異，看起來有些麻煩。&lt;/p&gt;&lt;p&gt;
+只是，習慣是種可怕的東西，雖然我安裝了 admin ，可以使用下面這個看起來直覺的操作介面來新增文章，但用了一次後我就完全捨棄了，因為對於一個前端設計而言，直接拷貝 html 再修改內容反而是更快更直覺的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;用 GitHub &amp;amp; Jekyll 架設一個部落格，是一個很好的學習經驗，可以熟悉基本的 git 指令，了解版本控制，可以藉由修改版型與套件來熟悉前端語言。&lt;/p&gt;
+
+&lt;p&gt;學程式，就從申請一個 &lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt; 帳號開始吧！&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="coding" />
+      
+
+      
+        <summary type="html">久違了，部落格。 距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。 註：這隻可愛的娃娃圖取自Jekyll官網。</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Raspberry Pi</title>
+      <link href="http://localhost:4000/raspberrypi001" rel="alternate" type="text/html" title="Raspberry Pi" />
+      <published>2020-01-07T16:00:00+08:00</published>
+      <updated>2020-01-07T16:00:00+08:00</updated>
+      <id>http://localhost:4000/raspberrypi001</id>
+      <content type="html" xml:base="http://localhost:4000/raspberrypi001">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
+
+&lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/raspberry03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;不過想要開始玩它可沒有那麼簡單，基本上眉角還挺多的。除了灌軟體外，因為它只是主機，要用它就需要螢幕、鍵盤、滑鼠跟網路。我手邊只有 NoteBook ，所以需要藉著遠端桌面的功能，用 NoteBook 來操作 Raspberry Pi 。&lt;/p&gt;
+&lt;p&gt;網路上有許多神人教學，我主要參考了 &lt;a href=&quot;https://hugheschung.blogspot.com/2019/01/raspberry-pi.html&quot; target=&quot;_blank&quot;&gt;Raspberry Pi | 樹莓派安裝起手式：無頭式安裝法&lt;/a&gt; ，及 &lt;a href=&quot;https://blog.cavedu.com/2018/03/23/raspberry-pi-remote-desktop/&quot; target=&quot;_blank&quot;&gt; [Raspberry Pi] 如何使用遠端桌面 &lt;/a&gt;兩篇文章，順利的將 Raspberry Pi 遠端桌面設置完畢。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/raspberry01.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+&lt;p&gt;這是一台可以隨身攜帶的小電腦，輕薄、可愛、能做的事還挺多，配件加一加也不到 3K 。( 雖然已經可以預期我可能會繼續往它身上砸錢 )&lt;/p&gt;
+&lt;p&gt;好東西，不買嗎？&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="coding" />
+      
+
+      
+        <summary type="html">又是一個坑。 我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Lotto 樂透</title>
+      <link href="http://localhost:4000/android001_lotto" rel="alternate" type="text/html" title="Lotto 樂透" />
+      <published>2020-01-01T16:00:00+08:00</published>
+      <updated>2020-01-01T16:00:00+08:00</updated>
+      <id>http://localhost:4000/android001_lotto</id>
+      <content type="html" xml:base="http://localhost:4000/android001_lotto">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
+&lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
+
+
+&lt;!--圖片--&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/android01.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+&lt;p&gt;
+這個小程式練習，對於我這個Java幼幼班而言，還是花了滿多時間修改，一開始用比較笨的方式慢慢刻，讓程式能跑再說，之後才又一步步將程式打包簡化。看著程式愈變愈短，其實挺有成就感的，而且我喜歡動畫，即使是簡單的數字變化也做的很開心，完整程式碼於 &lt;a href=&quot;https://github.com/SwingGao2020/Lotto.git&quot; target =&quot;_blank&quot;&gt;GitHub&lt;/a&gt; 。
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h6 id=&quot;heading6&quot;&gt;Random 42 numbers and add 6 of them to HashSet.&lt;/h6&gt;
+
+&lt;!--程式區塊--&gt;
+&lt;pre&gt; 
+      
+    private static int ballnumber;
+    private static Set balllist = new HashSet();
+    
+    public void NumberRandom() {
+        balllist.clear();
+        while (true) {
+            ballnumber = (int) (Math.random() * 42 + 1);
+            balllist.add(ballnumber);
+            if (balllist.size() == 6) break;
+        }
+    }       
+        
+&lt;/pre&gt;
+&lt;p&gt;設定變數 ballnumber 與一個可裝這些數字的陣列 balllist。陣列選擇 &lt;code&gt;&lt;b&gt;HashSet&lt;/b&gt;&lt;/code&gt; 的原因是裡面的東西不會重複，所以萬一 &lt;code&gt;&lt;b&gt;Math.random()&lt;/b&gt;&lt;/code&gt; 跑出的號碼跟之前的一樣就不會被放入，亂數迴圈直到裝滿六個號碼才停止。&lt;/p&gt;
+
+&lt;h6 id=&quot;heading6&quot;&gt;Iterate over a HashSet and set TextViews.&lt;/h6&gt;
+&lt;pre&gt; 
+      
+    private Iterator ball;
+    private static TextView notv;
+    private static int notvid;
+    private static int[] notvids;
+    notvids = {R.id.ball01, R.id.ball02, R.id.ball03, R.id.ball04, R.id.ball05, R.id.ball06};
+    private StringBuilder sb = new StringBuilder();
+    
+    public void Display() {
+    ball = balllist.iterator();
+    while (ball.hasNext()) { 
+        int i = -1;
+        i++;
+        switch (i) {
+            case 0: notvid = notvids[0]; settvno();
+            case 1: notvid = notvids[1]; settvno();
+            case 2: notvid = notvids[2]; settvno();
+            case 3: notvid = notvids[3]; settvno();
+            case 4: notvid = notvids[4]; settvno();
+            case 5: notvid = notvids[5]; settvno();
+            default: break;
+            }
+        }
+    }       
+     
+&lt;/pre&gt;
+&lt;pre&gt; 
+    
+     public void settvno() {
+        sb.delete(0, sb.length());
+        notv = findViewById(notvid);
+        Object obj = ball.next();
+
+        if (obj instanceof Integer) {
+            if ((int) obj &lt; 10) { sb.append(&quot;0&quot;).append(obj); } 
+                           else { sb.append(obj); }
+        }
+        notv.setText(sb);
+        notv.setBackgroundResource(R.drawable.cycle);
+    }        
+        
+   
+&lt;/pre&gt;
+
+&lt;p&gt;先設定一個整數陣列用來放每個 TextView 的 id 。就可以將複雜的 id 名稱用簡單的 notvids[0]、[1]、[2] 替代。不過這部份的變數名稱取得不太好，有時間再來修改(&lt;s&gt;通常會這麼說的都不會做&lt;/s&gt;)。&lt;br&gt;因為 &lt;code&gt;&lt;b&gt;HashSet&lt;/b&gt;&lt;/code&gt; 並不是有次序的陣列，所以無法以 [0]、[1]、[2] …… 這樣的方式取裡面的數字，要使用 &lt;code&gt;&lt;b&gt;iterator()&lt;/b&gt;&lt;/code&gt; 方法取出。另外，將數字放入 TextView 的部份一直重複使用，所以將它們打包成 settvno()，而數字 0~9 因為是個位數，在做動畫時，個位數跟二位數轉換時會有跳動感，所以做了一個如果是個位數就在前面補零的判斷。&lt;/p&gt; 
+
+&lt;h6 id=&quot;heading6&quot;&gt;Create class that implements Runnable , then Handler to post.&lt;/h6&gt;
+&lt;pre&gt; 
+      
+    private Handler handler = new Handler();
+    private Runnable starttask = new Startno();
+    private Runnable stoptask = new Stopno();
+
+    private class Startno implements Runnable {        
+        public void run() {
+            NumberRandom();
+            Display();
+            handler.postDelayed(this, 20); 
+        }
+    }
+
+    private class Stopno implements Runnable {        
+        public void run() {
+            handler.removeCallbacks(starttask);
+        }
+    }
+        
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;&lt;b&gt;Handler&lt;/b&gt;&lt;/code&gt; 與 &lt;code&gt;&lt;b&gt;Runnable&lt;/b&gt;&lt;/code&gt; 是對好用的夥伴，只要 &lt;code&gt;&lt;b&gt;Handler&lt;/b&gt;&lt;/code&gt; 重複執行 &lt;code&gt;&lt;b&gt;Runnable&lt;/b&gt;&lt;/code&gt; 裡的函式，就可以拿來做動畫。這裡 &lt;code&gt;&lt;b&gt;Handler&lt;/b&gt;&lt;/code&gt; 每 0.2 秒重新 &lt;code&gt;&lt;b&gt;Math.random()&lt;/b&gt;&lt;/code&gt; 一組號碼並顯示，製造號碼翻動的效果。不過這是六個號碼一起變動，如果想要一個一個照順序開始或停止，就得重新思考一下其他寫法。&lt;/p&gt;
+
+&lt;h6 id=&quot;heading6&quot;&gt;Button onClick.&lt;/h6&gt;
+&lt;pre&gt; 
+    
+    private Button btnstart = findViewById(R.id.start);
+    private Button btnstop = findViewById(R.id.stop); // invisible
+    private Button btnclear = findViewById(R.id.clear); // Enabled(false);
+    private GradientDrawable btncolor = (GradientDrawable) btnclear.getBackground();
+                             btncolor.setColor(Color.parseColor(&quot;#aaaaaa&quot;));
+    
+    public void Start(View view) {
+        handler.post(starttask);
+        btnstart.setVisibility(view.INVISIBLE);
+        btnstop.setVisibility(view.VISIBLE);
+    }
+
+    public void Stop(View view) {
+        handler.post(stoptask);
+        btnstop.setVisibility(view.INVISIBLE);
+        btnstart.setVisibility(view.VISIBLE);
+        btnclear.setEnabled(true);
+        btncolor.setColor(Color.parseColor(&quot;#3D998D&quot;));
+    }
+
+    public void Clear(View view) {
+        for(int i=0;i&lt;6;i++){
+            notv = findViewById(notvids[i]);
+            notv.setText(&quot;&quot;);
+            notv.setBackgroundResource(R.drawable.cycle02);
+            btncolor.setColor(Color.parseColor(&quot;#aaaaaa&quot;));
+        }
+    }  
+
+        
+&lt;/pre&gt;
+&lt;p&gt;一開始練習時只有寫 start 與 stop 兩個 &lt;code&gt;&lt;b&gt;Button&lt;/b&gt;&lt;/code&gt; ，後來新增一顆 clear，發現塞三顆按鈕畫面變得好醜(&lt;s&gt;對我就是一堆毛&lt;/s&gt;)。所以把 start 與 stop 兩顆位置疊在一起，只是一開始讓 stop &lt;code&gt;&lt;b&gt;view.INVISIBLE&lt;/b&gt;&lt;/code&gt; 隱藏起來，並讓 clear 先失效 &lt;code&gt;&lt;b&gt;enable(false)&lt;/b&gt;&lt;/code&gt; ，當按下 start 後， stop 才設為 &lt;code&gt;&lt;b&gt;view.VISIBLE&lt;/b&gt;&lt;/code&gt; ，下面為手機 demo 影片。&lt;/p&gt;
+
+&lt;script language=&quot;javascript&quot;&gt;
+function Size(x){
+if(x=='big'){
+　document.getElementById(&quot;MovieShow2&quot;).width=500;
+　document.getElementById(&quot;MovieShow2&quot;).height=450;
+}else if(x=='small'){
+　document.getElementById(&quot;MovieShow2&quot;).width=260;
+　document.getElementById(&quot;MovieShow2&quot;).height=234;
+}}
+&lt;/script&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/391011910&quot; width=&quot;640&quot; height=&quot;480&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;另外，我偏財運一向不怎麼樣，但&lt;s&gt;有夢最美&lt;/s&gt;。剛寫完這個小程式，我就用裡面隨機跑出來的號碼買了兩張樂透。
+&lt;br&gt;&lt;br&gt;嗯，事實證明，我還是把錢拿去買咖啡比較實際。&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="coding" />
+      
+
+      
+        <summary type="html">Android Practice (Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

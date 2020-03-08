@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Visual design / Program design</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>秋之京都</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;比起東京我更愛京都。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，但真正到時卻只紅了一點，不過還是覺得非常美。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 11 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/film004_olympusmjuii_kyoto</link>
+        <guid isPermaLink="true">http://localhost:4000/film004_olympusmjuii_kyoto</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>GitHub &amp;amp; Jekyll</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;久違了，部落格。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。&lt;/p&gt;
+&lt;p&gt;註：這隻可愛的娃娃圖取自&lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;官網。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll04.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 10 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/web001_jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/web001_jekyll</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>漏光了不打算修</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;喵兔是我最愛的隨身機。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;olympus mjuII 被愛用者暱稱為喵兔，手邊這台黑喵跟了我好幾年，陪我看了許多風景，到釜山拍攝的相片洗出來才發現它漏光了，電池室的擋片也掉了一小塊，因為漏光的部份在邊緣，感覺還挺有 FU 的，所以我沒打算修它。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 09 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/film003_olympusmjuii_busan</link>
+        <guid isPermaLink="true">http://localhost:4000/film003_olympusmjuii_busan</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>可遇不可求的色彩</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;過期富士的夢幻紫紅。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;每捲過期底片發色與顆粒表現不盡相同，有些偏色不重但非常暗淡，有些連影像都呈現不出來，每次沖洗就像開獎一樣，不是驚喜就是驚嚇。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 08 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/film002_olympusmjuii_kyoto</link>
+        <guid isPermaLink="true">http://localhost:4000/film002_olympusmjuii_kyoto</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Raspberry Pi</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 07 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/raspberrypi001</link>
+        <guid isPermaLink="true">http://localhost:4000/raspberrypi001</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>APP NOMO</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;數位攝影普及後，底片的玩家逐漸變成小眾，很多從數位入門的攝影玩家，常常無法理解底片玩家口中的底片味到底是什麼，認為所謂的底片味後製就可以達成。的確，我本身也喜歡用各種軟體後製，不論是手機的 APP 或是常用的 PS，我也認為自己有能力後製出一張&quot;很像&quot;底片拍出來的數位相片，但，不得不說，這之中是有實質而非&quot;純粹感覺&quot;上的差異。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 06 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/app001_nomo</link>
+        <guid isPermaLink="true">http://localhost:4000/app001_nomo</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>車站隨影</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現執行上有些困難，有些三等站一天只停四班車，附近非常荒涼，下班車還要等超過一個小時，不僅浪費時間，安全上也有疑慮，所以太過冷清的站暫時放棄，畢竟32天說多也不多，而且還有其他行程要走。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 05 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/trip001_taiwantrain</link>
+        <guid isPermaLink="true">http://localhost:4000/trip001_taiwantrain</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Maxell Aqua Park</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;充滿夢幻色彩的水族館。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;2016 年夏天，第一次東京自由行，規劃行程時搜尋到這個位於品川的室內水族館，被七彩的水母驚豔到，就決定一定要過來看看。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 04 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/video001_tokyo</link>
+        <guid isPermaLink="true">http://localhost:4000/video001_tokyo</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Flash 時代的眼淚</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;Flash 曾經是我的最愛。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。&lt;/p&gt;
+&lt;hr&gt;
+
+</description>
+        
+        <pubDate>Fri, 03 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/animation001_eltv</link>
+        <guid isPermaLink="true">http://localhost:4000/animation001_eltv</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>發霉了但也很好</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我有一堆過期底片。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;以前在外面租屋，我的冰箱不是用來裝食物，而是底片，因為底片會有一股銀鹽味，不適合與食物放在一起，搬離前我將冰箱徹底清潔並拔插頭風乾，味道才消除。所以回老家後，為免污染家裡裝食物的冰箱，我便把底片存放在箱子裡。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 02 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/film001_em_tokyo</link>
+        <guid isPermaLink="true">http://localhost:4000/film001_em_tokyo</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Lotto 樂透</title>
+        
+          <description>&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
+&lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
+
+</description>
+        
+        <pubDate>Wed, 01 Jan 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/android001_lotto</link>
+        <guid isPermaLink="true">http://localhost:4000/android001_lotto</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
