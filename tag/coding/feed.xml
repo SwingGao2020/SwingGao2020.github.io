@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/coding/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-03-08T16:48:39+08:00</updated>
+  <updated>2020-03-08T18:45:31+08:00</updated>
   <id>http://localhost:4000/tag/coding/feed.xml</id>
 
   
@@ -44,57 +44,12 @@
 
   
     <entry>
-      <title type="html">Raspberry Pi</title>
-      <link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" />
-      <published>2020-02-20T16:00:00+08:00</published>
-      <updated>2020-02-20T16:00:00+08:00</updated>
-      <id>http://localhost:4000/raspberrypi</id>
-      <content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
-
-&lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/raspberry03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
-
-&lt;p&gt;不過想要開始玩它可沒有那麼簡單，基本上眉角還挺多的。除了灌軟體外，因為它只是主機，要用它就需要螢幕、鍵盤、滑鼠跟網路。我手邊只有 NoteBook ，所以需要藉著遠端桌面的功能，用 NoteBook 來操作 Raspberry Pi 。&lt;/p&gt;
-&lt;p&gt;網路上有許多神人教學，我主要參考了 &lt;a href=&quot;https://hugheschung.blogspot.com/2019/01/raspberry-pi.html&quot; target=&quot;_blank&quot;&gt;Raspberry Pi | 樹莓派安裝起手式：無頭式安裝法&lt;/a&gt; ，及 &lt;a href=&quot;https://blog.cavedu.com/2018/03/23/raspberry-pi-remote-desktop/&quot; target=&quot;_blank&quot;&gt; [Raspberry Pi] 如何使用遠端桌面 &lt;/a&gt;兩篇文章，順利的將 Raspberry Pi 遠端桌面設置完畢。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/raspberry01.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
-&lt;p&gt;這是一台可以隨身攜帶的小電腦，輕薄、可愛、能做的事還挺多，配件加一加也不到 3K 。( 雖然已經可以預期我可能會繼續往它身上砸錢 )&lt;/p&gt;
-&lt;p&gt;好東西，不買嗎？&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="coding" />
-      
-
-      
-        <summary type="html">又是一個坑。 我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">GitHub &amp;amp; Jekyll</title>
-      <link href="http://localhost:4000/jekyll" rel="alternate" type="text/html" title="GitHub &amp;amp; Jekyll" />
-      <published>2020-02-19T16:00:00+08:00</published>
-      <updated>2020-02-19T16:00:00+08:00</updated>
-      <id>http://localhost:4000/jekyll</id>
-      <content type="html" xml:base="http://localhost:4000/jekyll">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;久違了，部落格。&lt;/h2&gt;&lt;br&gt;
+      <link href="http://localhost:4000/web001_jekyll" rel="alternate" type="text/html" title="GitHub &amp;amp; Jekyll" />
+      <published>2020-01-10T16:00:00+08:00</published>
+      <updated>2020-01-10T16:00:00+08:00</updated>
+      <id>http://localhost:4000/web001_jekyll</id>
+      <content type="html" xml:base="http://localhost:4000/web001_jekyll">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;久違了，部落格。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。&lt;/p&gt;
 &lt;p&gt;註：這隻可愛的娃娃圖取自&lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;官網。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/jekyll04.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
@@ -139,12 +94,57 @@
     </entry>
   
     <entry>
+      <title type="html">Raspberry Pi</title>
+      <link href="http://localhost:4000/raspberrypi001" rel="alternate" type="text/html" title="Raspberry Pi" />
+      <published>2020-01-07T16:00:00+08:00</published>
+      <updated>2020-01-07T16:00:00+08:00</updated>
+      <id>http://localhost:4000/raspberrypi001</id>
+      <content type="html" xml:base="http://localhost:4000/raspberrypi001">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
+
+&lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/raspberry03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;不過想要開始玩它可沒有那麼簡單，基本上眉角還挺多的。除了灌軟體外，因為它只是主機，要用它就需要螢幕、鍵盤、滑鼠跟網路。我手邊只有 NoteBook ，所以需要藉著遠端桌面的功能，用 NoteBook 來操作 Raspberry Pi 。&lt;/p&gt;
+&lt;p&gt;網路上有許多神人教學，我主要參考了 &lt;a href=&quot;https://hugheschung.blogspot.com/2019/01/raspberry-pi.html&quot; target=&quot;_blank&quot;&gt;Raspberry Pi | 樹莓派安裝起手式：無頭式安裝法&lt;/a&gt; ，及 &lt;a href=&quot;https://blog.cavedu.com/2018/03/23/raspberry-pi-remote-desktop/&quot; target=&quot;_blank&quot;&gt; [Raspberry Pi] 如何使用遠端桌面 &lt;/a&gt;兩篇文章，順利的將 Raspberry Pi 遠端桌面設置完畢。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/raspberry01.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+&lt;p&gt;這是一台可以隨身攜帶的小電腦，輕薄、可愛、能做的事還挺多，配件加一加也不到 3K 。( 雖然已經可以預期我可能會繼續往它身上砸錢 )&lt;/p&gt;
+&lt;p&gt;好東西，不買嗎？&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="coding" />
+      
+
+      
+        <summary type="html">又是一個坑。 我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Lotto 樂透</title>
-      <link href="http://localhost:4000/android_lotto" rel="alternate" type="text/html" title="Lotto 樂透" />
+      <link href="http://localhost:4000/android001_lotto" rel="alternate" type="text/html" title="Lotto 樂透" />
       <published>2020-01-01T16:00:00+08:00</published>
       <updated>2020-01-01T16:00:00+08:00</updated>
-      <id>http://localhost:4000/android_lotto</id>
-      <content type="html" xml:base="http://localhost:4000/android_lotto">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
+      <id>http://localhost:4000/android001_lotto</id>
+      <content type="html" xml:base="http://localhost:4000/android001_lotto">&lt;h2 id=&quot;heading2&quot;&gt;Android Practice&lt;/h2&gt;
 &lt;h6 id=&quot;heading6&quot;&gt;(Math.random) (HashSet) (Iterator) (Handler) (Runnable) (Button invisible)&lt;/h6&gt;&lt;br&gt;
 
 

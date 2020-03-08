@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/trip/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-03-08T16:48:39+08:00</updated>
+  <updated>2020-03-08T18:45:31+08:00</updated>
   <id>http://localhost:4000/tag/trip/feed.xml</id>
 
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">車站隨影</title>
-      <link href="http://localhost:4000/taiwantrain_iphoneSE" rel="alternate" type="text/html" title="車站隨影" />
-      <published>2020-02-12T16:00:00+08:00</published>
-      <updated>2020-02-12T16:00:00+08:00</updated>
-      <id>http://localhost:4000/taiwantrain_iphoneSE</id>
-      <content type="html" xml:base="http://localhost:4000/taiwantrain_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
+      <link href="http://localhost:4000/trip001_taiwantrain" rel="alternate" type="text/html" title="車站隨影" />
+      <published>2020-01-05T16:00:00+08:00</published>
+      <updated>2020-01-05T16:00:00+08:00</updated>
+      <id>http://localhost:4000/trip001_taiwantrain</id>
+      <content type="html" xml:base="http://localhost:4000/trip001_taiwantrain">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現執行上有些困難，有些三等站一天只停四班車，附近非常荒涼，下班車還要等超過一個小時，不僅浪費時間，安全上也有疑慮，所以太過冷清的站暫時放棄，畢竟32天說多也不多，而且還有其他行程要走。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/train31.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;

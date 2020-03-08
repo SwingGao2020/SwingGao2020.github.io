@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/snapshot/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-03-08T16:48:39+08:00</updated>
+  <updated>2020-03-08T18:45:31+08:00</updated>
   <id>http://localhost:4000/tag/snapshot/feed.xml</id>
 
   
@@ -45,16 +45,17 @@
   
     <entry>
       <title type="html">秋之京都</title>
-      <link href="http://localhost:4000/kyoto_olymplus02" rel="alternate" type="text/html" title="秋之京都" />
-      <published>2020-02-15T16:00:00+08:00</published>
-      <updated>2020-02-15T16:00:00+08:00</updated>
-      <id>http://localhost:4000/kyoto_olymplus02</id>
-      <content type="html" xml:base="http://localhost:4000/kyoto_olymplus02">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;比起東京我更愛京都。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，不過真正到時其實只紅了一點，但還是覺得很美。&lt;/p&gt;
+      <link href="http://localhost:4000/film004_olympusmjuii_kyoto" rel="alternate" type="text/html" title="秋之京都" />
+      <published>2020-01-11T16:00:00+08:00</published>
+      <updated>2020-01-11T16:00:00+08:00</updated>
+      <id>http://localhost:4000/film004_olympusmjuii_kyoto</id>
+      <content type="html" xml:base="http://localhost:4000/film004_olympusmjuii_kyoto">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;比起東京我更愛京都。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，但真正到時卻只紅了一點，不過還是覺得非常美。&lt;/p&gt;
 
-&lt;p&gt;京都是個步調和緩的地方，我們住的不是一般飯店，是像宿舍一樣含有小廚房的套房，那時每天回去都會順便去超商買簡單的食材，自己煮晚餐體驗生活在京都的日常(雖然我對烹飪並不擅長XD)。&lt;/p&gt; 
 
-&lt;p&gt;原本預定 2020 四月要再去一次京阪賞櫻，機票跟住宿也都訂好，卻因為肺炎流行不得不取消，覺得有些遺憾。&lt;/p&gt;
+&lt;p&gt;尤其嵐山是我很喜歡的地方，當初沒有坐到的小火車也想找機會嘗試，所以原本 2020 三月底預計再去一趟京阪賞櫻，機票跟住宿都已訂好，卻因為肺炎流行不得不取消，覺得遺憾。&lt;/p&gt;
+
+&lt;p&gt;這趟旅行我只拍了三捲底片，其他都用手機記錄，現在回想真應該多帶幾捲過去。&lt;/p&gt;
 
 &lt;hr&gt;
 camera:olympus mjuII&lt;br&gt;
@@ -93,7 +94,7 @@ film:lomo color100 &amp;amp; my heart200 (expired film)
       
 
       
-        <summary type="html">比起東京我更愛京都。 當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，不過真正到時其實只紅了一點，但還是覺得很美。</summary>
+        <summary type="html">比起東京我更愛京都。 當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，但真正到時卻只紅了一點，不過還是覺得非常美。</summary>
       
 
       
@@ -102,11 +103,11 @@ film:lomo color100 &amp;amp; my heart200 (expired film)
   
     <entry>
       <title type="html">漏光了不打算修</title>
-      <link href="http://localhost:4000/busan_olymplus" rel="alternate" type="text/html" title="漏光了不打算修" />
-      <published>2020-02-14T16:00:00+08:00</published>
-      <updated>2020-02-14T16:00:00+08:00</updated>
-      <id>http://localhost:4000/busan_olymplus</id>
-      <content type="html" xml:base="http://localhost:4000/busan_olymplus">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;喵兔是我最愛的隨身機。&lt;/h2&gt;&lt;br&gt;
+      <link href="http://localhost:4000/film003_olympusmjuii_busan" rel="alternate" type="text/html" title="漏光了不打算修" />
+      <published>2020-01-09T16:00:00+08:00</published>
+      <updated>2020-01-09T16:00:00+08:00</updated>
+      <id>http://localhost:4000/film003_olympusmjuii_busan</id>
+      <content type="html" xml:base="http://localhost:4000/film003_olympusmjuii_busan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;喵兔是我最愛的隨身機。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;olympus mjuII 被愛用者暱稱為喵兔，手邊這台黑喵跟了我好幾年，陪我看了許多風景，到釜山拍攝的相片洗出來才發現它漏光了，電池室的擋片也掉了一小塊，因為漏光的部份在邊緣，感覺還挺有 FU 的，所以我沒打算修它。&lt;/p&gt;
 
 &lt;p&gt;不過我最近確實在搜尋第二台喵兔當作備機，只是當時二手不到兩千的價，現在被哄抬至四、五千，有些買不下手(四、五千在當時可以買新機了)。雖然知道機會渺茫，但很希望 Olympus 公司能夠再次生產這台好用的機子，即使玩底片的是小眾，但這群人可都是非常死忠且願意掏錢的。&lt;/p&gt; 
@@ -157,11 +158,11 @@ film:kentmere400 BW (expired film)
   
     <entry>
       <title type="html">可遇不可求的色彩</title>
-      <link href="http://localhost:4000/kyoto_olymplus" rel="alternate" type="text/html" title="可遇不可求的色彩" />
-      <published>2020-02-13T16:00:00+08:00</published>
-      <updated>2020-02-13T16:00:00+08:00</updated>
-      <id>http://localhost:4000/kyoto_olymplus</id>
-      <content type="html" xml:base="http://localhost:4000/kyoto_olymplus">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;過期富士的夢幻紫紅。&lt;/h2&gt;&lt;br&gt;
+      <link href="http://localhost:4000/film002_olympusmjuii_kyoto" rel="alternate" type="text/html" title="可遇不可求的色彩" />
+      <published>2020-01-08T16:00:00+08:00</published>
+      <updated>2020-01-08T16:00:00+08:00</updated>
+      <id>http://localhost:4000/film002_olympusmjuii_kyoto</id>
+      <content type="html" xml:base="http://localhost:4000/film002_olympusmjuii_kyoto">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;過期富士的夢幻紫紅。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;每捲過期底片發色與顆粒表現不盡相同，有些偏色不重但非常暗淡，有些連影像都呈現不出來，每次沖洗就像開獎一樣，不是驚喜就是驚嚇。&lt;/p&gt;
 
 &lt;p&gt;以我之前的經驗，未過期的 fuji sensia100 正負沖時原本就會些微偏粉，只是沒想到過期的會紅的如此誇張，顏色與品質的界定從來都只是個人喜好，在我眼裡沒有對與錯，只有喜歡與否，以這捲來說，有些相片偏色看來會很有味道，有些我就不是那麼喜歡，但不可預知原本就是玩過期的樂趣之一，一捲裡只要有一張是我很喜歡的，那麼對我而言這捲就值得了。&lt;/p&gt; 
@@ -214,11 +215,11 @@ film:fuji sensia100 EtoC (expired film)
   
     <entry>
       <title type="html">APP NOMO</title>
-      <link href="http://localhost:4000/tokyo_iphoneSE" rel="alternate" type="text/html" title="APP NOMO" />
-      <published>2020-02-11T16:00:00+08:00</published>
-      <updated>2020-02-11T16:00:00+08:00</updated>
-      <id>http://localhost:4000/tokyo_iphoneSE</id>
-      <content type="html" xml:base="http://localhost:4000/tokyo_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
+      <link href="http://localhost:4000/app001_nomo" rel="alternate" type="text/html" title="APP NOMO" />
+      <published>2020-01-06T16:00:00+08:00</published>
+      <updated>2020-01-06T16:00:00+08:00</updated>
+      <id>http://localhost:4000/app001_nomo</id>
+      <content type="html" xml:base="http://localhost:4000/app001_nomo">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;數位攝影普及後，底片的玩家逐漸變成小眾，很多從數位入門的攝影玩家，常常無法理解底片玩家口中的底片味到底是什麼，認為所謂的底片味後製就可以達成。的確，我本身也喜歡用各種軟體後製，不論是手機的 APP 或是常用的 PS，我也認為自己有能力後製出一張&quot;很像&quot;底片拍出來的數位相片，但，不得不說，這之中是有實質而非&quot;純粹感覺&quot;上的差異。&lt;/p&gt;
 
 &lt;p&gt;主要的差異來自於色彩的階調、層次與濃度，在一開始紀錄顏色時，底片的紀錄方式跟數位 CCD 就不同，目前我看過最接近底片色彩紀錄的數位相機來自 SIGMA 這間老牌廠商，雖然 SIGMA 的機子在使用上有許多缺點，但相片的品質還是令許多玩家趨之若鶩，可以參考 &lt;a href=&quot;https://technews.tw/2019/03/09/sigma-foveon-x3-is-back/&quot; target=&quot;_blank&quot;&gt;SIGMA FF Foveon X3&lt;/a&gt; 感光元件的描述。
@@ -274,11 +275,11 @@ app:NOMO-Point and Shoot
   
     <entry>
       <title type="html">發霉了但也很好</title>
-      <link href="http://localhost:4000/tokyo_em" rel="alternate" type="text/html" title="發霉了但也很好" />
-      <published>2020-02-10T16:00:00+08:00</published>
-      <updated>2020-02-10T16:00:00+08:00</updated>
-      <id>http://localhost:4000/tokyo_em</id>
-      <content type="html" xml:base="http://localhost:4000/tokyo_em">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我有一堆過期底片。&lt;/h2&gt;&lt;br&gt;
+      <link href="http://localhost:4000/film001_em_tokyo" rel="alternate" type="text/html" title="發霉了但也很好" />
+      <published>2020-01-02T16:00:00+08:00</published>
+      <updated>2020-01-02T16:00:00+08:00</updated>
+      <id>http://localhost:4000/film001_em_tokyo</id>
+      <content type="html" xml:base="http://localhost:4000/film001_em_tokyo">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我有一堆過期底片。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;以前在外面租屋，我的冰箱不是用來裝食物，而是底片，因為底片會有一股銀鹽味，不適合與食物放在一起，搬離前我將冰箱徹底清潔並拔插頭風乾，味道才消除。所以回老家後，為免污染家裡裝食物的冰箱，我便把底片存放在箱子裡。&lt;/p&gt;
 
 &lt;p&gt;停了很長一段時間沒有拍照，第一次去東京帶了十捲左右，大部份借給對攝影有興趣的同事，而我顧著玩剛買的iPhoneSE，錄了一堆影像，底片卻只拍了三捲，顆粒粗大跟變色是意料中事，只是這捲發霉特別嚴重。&lt;br&gt;&lt;br&gt;不過，我很喜歡。&lt;br&gt;

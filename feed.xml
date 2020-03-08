@@ -1,69 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-08T16:48:39+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
-
-&lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/raspberry03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
-
-&lt;p&gt;不過想要開始玩它可沒有那麼簡單，基本上眉角還挺多的。除了灌軟體外，因為它只是主機，要用它就需要螢幕、鍵盤、滑鼠跟網路。我手邊只有 NoteBook ，所以需要藉著遠端桌面的功能，用 NoteBook 來操作 Raspberry Pi 。&lt;/p&gt;
-&lt;p&gt;網路上有許多神人教學，我主要參考了 &lt;a href=&quot;https://hugheschung.blogspot.com/2019/01/raspberry-pi.html&quot; target=&quot;_blank&quot;&gt;Raspberry Pi | 樹莓派安裝起手式：無頭式安裝法&lt;/a&gt; ，及 &lt;a href=&quot;https://blog.cavedu.com/2018/03/23/raspberry-pi-remote-desktop/&quot; target=&quot;_blank&quot;&gt; [Raspberry Pi] 如何使用遠端桌面 &lt;/a&gt;兩篇文章，順利的將 Raspberry Pi 遠端桌面設置完畢。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/raspberry01.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
-&lt;p&gt;這是一台可以隨身攜帶的小電腦，輕薄、可愛、能做的事還挺多，配件加一加也不到 3K 。( 雖然已經可以預期我可能會繼續往它身上砸錢 )&lt;/p&gt;
-&lt;p&gt;好東西，不買嗎？&lt;/p&gt;</content><author><name></name></author><category term="coding" /><summary type="html">又是一個坑。 我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。</summary></entry><entry><title type="html">GitHub &amp;amp; Jekyll</title><link href="http://localhost:4000/jekyll" rel="alternate" type="text/html" title="GitHub &amp;amp; Jekyll" /><published>2020-02-19T16:00:00+08:00</published><updated>2020-02-19T16:00:00+08:00</updated><id>http://localhost:4000/jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;久違了，部落格。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。&lt;/p&gt;
-&lt;p&gt;註：這隻可愛的娃娃圖取自&lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;官網。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/jekyll04.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
-
-&lt;p&gt;不過現成的部落格這麼多，只要開個帳號選個版型，就可以直接寫文章了，那麼我何必選擇一個全部要自己手動架設，中間卡了很久把自己搞個半死才總算能開始寫文章的部落格呢？(感覺怨氣很重XD)&lt;/p&gt;
-&lt;p&gt;最大的原因是，我可以自主修改前端所有語言，現成的部落格雖然方便但能動到的地方有限，自架網站可以隨意選擇喜歡的套件使用，自由度很高，而且網路上為 Jekyll 設計了很多好看的模版，目前的部落格就是取自 &lt;a href=&quot;http://jekyllthemes.org/&quot; target=&quot;_blank&quot;&gt;Jekyll Themes&lt;/a&gt; 其中一個版型。 ( 但它的語法不完全，有些連結跑掉了，我花了一些時間才搞定它 Orz ) &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/jekyll02.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-現在寫部落格，最常開的三個視窗，一個是網頁的編輯器 Breckets ，另外兩個是命令提示字元，一個用來跑 jekyll serve ，一個上傳檔案到 GitHub ，這跟以前寫部落格的方式有極大的差異，看起來有些麻煩。&lt;/p&gt;&lt;p&gt;
-只是，習慣是種可怕的東西，雖然我安裝了 admin ，可以使用下面這個看起來直覺的操作介面來新增文章，但用了一次後我就完全捨棄了，因為對於一個前端設計而言，直接拷貝 html 再修改內容反而是更快更直覺的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/jekyll03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
-
-&lt;p&gt;用 GitHub &amp;amp; Jekyll 架設一個部落格，是一個很好的學習經驗，可以熟悉基本的 git 指令，了解版本控制，可以藉由修改版型與套件來熟悉前端語言。&lt;/p&gt;
-
-&lt;p&gt;學程式，就從申請一個 &lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt; 帳號開始吧！&lt;/p&gt;</content><author><name></name></author><category term="coding" /><summary type="html">久違了，部落格。 距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。 註：這隻可愛的娃娃圖取自Jekyll官網。</summary></entry><entry><title type="html">Maxell Aqua Park</title><link href="http://localhost:4000/tokyo" rel="alternate" type="text/html" title="Maxell Aqua Park" /><published>2020-02-18T16:00:00+08:00</published><updated>2020-02-18T16:00:00+08:00</updated><id>http://localhost:4000/tokyo</id><content type="html" xml:base="http://localhost:4000/tokyo">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;充滿夢幻色彩的水族館。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;2016 年夏天，第一次東京自由行，規劃行程時搜尋到這個位於品川的室內水族館，被七彩的水母驚豔到，就決定一定要過來看看。&lt;/p&gt;
-
-&lt;p&gt;水族館不大，有幾個簡單的主題區，燈光效果搭配得很好，固定時間有海豚表演，算是一間很有特色的水族館，這支影片紀錄了館內的展示，使用手機做簡單的剪輯。&lt;/p&gt;
-&lt;hr&gt;
-
-filmed with iPhoneSE&lt;br&gt;
-music:Solitude&lt;br&gt;
-musician:Rook1e&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-08T18:45:31+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">秋之京都</title><link href="http://localhost:4000/film004_olympusmjuii_kyoto" rel="alternate" type="text/html" title="秋之京都" /><published>2020-01-11T16:00:00+08:00</published><updated>2020-01-11T16:00:00+08:00</updated><id>http://localhost:4000/film004_olympusmjuii_kyoto</id><content type="html" xml:base="http://localhost:4000/film004_olympusmjuii_kyoto">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;比起東京我更愛京都。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，但真正到時卻只紅了一點，不過還是覺得非常美。&lt;/p&gt;
 
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/392344349&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="filming" /><summary type="html">充滿夢幻色彩的水族館。 2016 年夏天，第一次東京自由行，規劃行程時搜尋到這個位於品川的室內水族館，被七彩的水母驚豔到，就決定一定要過來看看。</summary></entry><entry><title type="html">Flash 時代的眼淚</title><link href="http://localhost:4000/ELTV" rel="alternate" type="text/html" title="Flash 時代的眼淚" /><published>2020-02-17T16:00:00+08:00</published><updated>2020-02-17T16:00:00+08:00</updated><id>http://localhost:4000/ELTV</id><content type="html" xml:base="http://localhost:4000/ELTV">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;Flash 曾經是我的最愛。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。&lt;/p&gt;
-&lt;hr&gt;
+&lt;p&gt;尤其嵐山是我很喜歡的地方，當初沒有坐到的小火車也想找機會嘗試，所以原本 2020 三月底預計再去一趟京阪賞櫻，機票跟住宿都已訂好，卻因為肺炎流行不得不取消，覺得遺憾。&lt;/p&gt;
 
-&lt;p&gt;在之前公司我用 AE、FLASH 做了非常多動畫，再將它們轉成影片播出。最早的定位是兒童觀看的英文學習頻道，所以我先設計了四隻寶寶，之後所有的動畫都由此延伸，從無到有就像我的孩子一般，是我很喜歡的作品之一，我做得很開心。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/eltv01.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;整個頻道的包裝從片頭、片尾、節前、節後、形象、行銷、節慶等，一系列很完整的做完一套，感覺很滿足，這裡節錄部份我比較喜歡的影片。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;【 單字列車 】&lt;/h3&gt;
-&lt;p&gt;廣告時會有三十秒的單字列車影片，用四隻寶寶做了四個相似的版本輪流播出。&lt;/p&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/391808699&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3&gt;【 頻道形象 】&lt;/h3&gt;
-&lt;p&gt;選了比較動感的音樂，用簡潔的說明表達頻道的特性。&lt;/p&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/391805108&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3&gt;【 節後卡 】&lt;/h3&gt;
-&lt;p&gt;每個節目結束後，10 秒說明動畫。&lt;/p&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/391808818&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3&gt;【 節慶影片 】&lt;/h3&gt;
-&lt;p&gt;幾個比較重要的節日，前兩個星期會輪播頻道自製的節慶影片。&lt;/p&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/391815907&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;hr&gt;
-
-&lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Flash 曾經是我的最愛。 跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。</summary></entry><entry><title type="html">秋之京都</title><link href="http://localhost:4000/kyoto_olymplus02" rel="alternate" type="text/html" title="秋之京都" /><published>2020-02-15T16:00:00+08:00</published><updated>2020-02-15T16:00:00+08:00</updated><id>http://localhost:4000/kyoto_olymplus02</id><content type="html" xml:base="http://localhost:4000/kyoto_olymplus02">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;比起東京我更愛京都。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，不過真正到時其實只紅了一點，但還是覺得很美。&lt;/p&gt;
-
-&lt;p&gt;京都是個步調和緩的地方，我們住的不是一般飯店，是像宿舍一樣含有小廚房的套房，那時每天回去都會順便去超商買簡單的食材，自己煮晚餐體驗生活在京都的日常(雖然我對烹飪並不擅長XD)。&lt;/p&gt; 
-
-&lt;p&gt;原本預定 2020 四月要再去一次京阪賞櫻，機票跟住宿也都訂好，卻因為肺炎流行不得不取消，覺得有些遺憾。&lt;/p&gt;
+&lt;p&gt;這趟旅行我只拍了三捲底片，其他都用手機記錄，現在回想真應該多帶幾捲過去。&lt;/p&gt;
 
 &lt;hr&gt;
 camera:olympus mjuII&lt;br&gt;
@@ -81,7 +22,23 @@ film:lomo color100 &amp;amp; my heart200 (expired film)
 &lt;p&gt;&lt;img src=&quot;assets/images/k18.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/k22.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/k20.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/k21.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">比起東京我更愛京都。 當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，不過真正到時其實只紅了一點，但還是覺得很美。</summary></entry><entry><title type="html">漏光了不打算修</title><link href="http://localhost:4000/busan_olymplus" rel="alternate" type="text/html" title="漏光了不打算修" /><published>2020-02-14T16:00:00+08:00</published><updated>2020-02-14T16:00:00+08:00</updated><id>http://localhost:4000/busan_olymplus</id><content type="html" xml:base="http://localhost:4000/busan_olymplus">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;喵兔是我最愛的隨身機。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k21.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">比起東京我更愛京都。 當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，但真正到時卻只紅了一點，不過還是覺得非常美。</summary></entry><entry><title type="html">GitHub &amp;amp; Jekyll</title><link href="http://localhost:4000/web001_jekyll" rel="alternate" type="text/html" title="GitHub &amp;amp; Jekyll" /><published>2020-01-10T16:00:00+08:00</published><updated>2020-01-10T16:00:00+08:00</updated><id>http://localhost:4000/web001_jekyll</id><content type="html" xml:base="http://localhost:4000/web001_jekyll">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;久違了，部落格。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。&lt;/p&gt;
+&lt;p&gt;註：這隻可愛的娃娃圖取自&lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;官網。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll04.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;不過現成的部落格這麼多，只要開個帳號選個版型，就可以直接寫文章了，那麼我何必選擇一個全部要自己手動架設，中間卡了很久把自己搞個半死才總算能開始寫文章的部落格呢？(感覺怨氣很重XD)&lt;/p&gt;
+&lt;p&gt;最大的原因是，我可以自主修改前端所有語言，現成的部落格雖然方便但能動到的地方有限，自架網站可以隨意選擇喜歡的套件使用，自由度很高，而且網路上為 Jekyll 設計了很多好看的模版，目前的部落格就是取自 &lt;a href=&quot;http://jekyllthemes.org/&quot; target=&quot;_blank&quot;&gt;Jekyll Themes&lt;/a&gt; 其中一個版型。 ( 但它的語法不完全，有些連結跑掉了，我花了一些時間才搞定它 Orz ) &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll02.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+現在寫部落格，最常開的三個視窗，一個是網頁的編輯器 Breckets ，另外兩個是命令提示字元，一個用來跑 jekyll serve ，一個上傳檔案到 GitHub ，這跟以前寫部落格的方式有極大的差異，看起來有些麻煩。&lt;/p&gt;&lt;p&gt;
+只是，習慣是種可怕的東西，雖然我安裝了 admin ，可以使用下面這個看起來直覺的操作介面來新增文章，但用了一次後我就完全捨棄了，因為對於一個前端設計而言，直接拷貝 html 再修改內容反而是更快更直覺的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/jekyll03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;用 GitHub &amp;amp; Jekyll 架設一個部落格，是一個很好的學習經驗，可以熟悉基本的 git 指令，了解版本控制，可以藉由修改版型與套件來熟悉前端語言。&lt;/p&gt;
+
+&lt;p&gt;學程式，就從申請一個 &lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt; 帳號開始吧！&lt;/p&gt;</content><author><name></name></author><category term="coding" /><summary type="html">久違了，部落格。 距離之前寫部落格的時間應該超過六年了，那時每兩、三天就能產出一篇文章，已經是日常生活的一部份，雖然停筆一段時間後，現在寫文章明顯有些生疏，但我想自己會慢慢找回當時的感覺。 註：這隻可愛的娃娃圖取自Jekyll官網。</summary></entry><entry><title type="html">漏光了不打算修</title><link href="http://localhost:4000/film003_olympusmjuii_busan" rel="alternate" type="text/html" title="漏光了不打算修" /><published>2020-01-09T16:00:00+08:00</published><updated>2020-01-09T16:00:00+08:00</updated><id>http://localhost:4000/film003_olympusmjuii_busan</id><content type="html" xml:base="http://localhost:4000/film003_olympusmjuii_busan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;喵兔是我最愛的隨身機。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;olympus mjuII 被愛用者暱稱為喵兔，手邊這台黑喵跟了我好幾年，陪我看了許多風景，到釜山拍攝的相片洗出來才發現它漏光了，電池室的擋片也掉了一小塊，因為漏光的部份在邊緣，感覺還挺有 FU 的，所以我沒打算修它。&lt;/p&gt;
 
 &lt;p&gt;不過我最近確實在搜尋第二台喵兔當作備機，只是當時二手不到兩千的價，現在被哄抬至四、五千，有些買不下手(四、五千在當時可以買新機了)。雖然知道機會渺茫，但很希望 Olympus 公司能夠再次生產這台好用的機子，即使玩底片的是小眾，但這群人可都是非常死忠且願意掏錢的。&lt;/p&gt; 
@@ -102,7 +59,7 @@ film:kentmere400 BW (expired film)
 &lt;p&gt;&lt;img src=&quot;assets/images/b06.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/b07.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/b08.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/b09.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">喵兔是我最愛的隨身機。 olympus mjuII 被愛用者暱稱為喵兔，手邊這台黑喵跟了我好幾年，陪我看了許多風景，到釜山拍攝的相片洗出來才發現它漏光了，電池室的擋片也掉了一小塊，因為漏光的部份在邊緣，感覺還挺有 FU 的，所以我沒打算修它。</summary></entry><entry><title type="html">可遇不可求的色彩</title><link href="http://localhost:4000/kyoto_olymplus" rel="alternate" type="text/html" title="可遇不可求的色彩" /><published>2020-02-13T16:00:00+08:00</published><updated>2020-02-13T16:00:00+08:00</updated><id>http://localhost:4000/kyoto_olymplus</id><content type="html" xml:base="http://localhost:4000/kyoto_olymplus">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;過期富士的夢幻紫紅。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/b09.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">喵兔是我最愛的隨身機。 olympus mjuII 被愛用者暱稱為喵兔，手邊這台黑喵跟了我好幾年，陪我看了許多風景，到釜山拍攝的相片洗出來才發現它漏光了，電池室的擋片也掉了一小塊，因為漏光的部份在邊緣，感覺還挺有 FU 的，所以我沒打算修它。</summary></entry><entry><title type="html">可遇不可求的色彩</title><link href="http://localhost:4000/film002_olympusmjuii_kyoto" rel="alternate" type="text/html" title="可遇不可求的色彩" /><published>2020-01-08T16:00:00+08:00</published><updated>2020-01-08T16:00:00+08:00</updated><id>http://localhost:4000/film002_olympusmjuii_kyoto</id><content type="html" xml:base="http://localhost:4000/film002_olympusmjuii_kyoto">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;過期富士的夢幻紫紅。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;每捲過期底片發色與顆粒表現不盡相同，有些偏色不重但非常暗淡，有些連影像都呈現不出來，每次沖洗就像開獎一樣，不是驚喜就是驚嚇。&lt;/p&gt;
 
 &lt;p&gt;以我之前的經驗，未過期的 fuji sensia100 正負沖時原本就會些微偏粉，只是沒想到過期的會紅的如此誇張，顏色與品質的界定從來都只是個人喜好，在我眼裡沒有對與錯，只有喜歡與否，以這捲來說，有些相片偏色看來會很有味道，有些我就不是那麼喜歡，但不可預知原本就是玩過期的樂趣之一，一捲裡只要有一張是我很喜歡的，那麼對我而言這捲就值得了。&lt;/p&gt; 
@@ -125,7 +82,44 @@ film:fuji sensia100 EtoC (expired film)
 &lt;p&gt;&lt;img src=&quot;assets/images/k09.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/k10.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/k06.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/k08.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">過期富士的夢幻紫紅。 每捲過期底片發色與顆粒表現不盡相同，有些偏色不重但非常暗淡，有些連影像都呈現不出來，每次沖洗就像開獎一樣，不是驚喜就是驚嚇。</summary></entry><entry><title type="html">車站隨影</title><link href="http://localhost:4000/taiwantrain_iphoneSE" rel="alternate" type="text/html" title="車站隨影" /><published>2020-02-12T16:00:00+08:00</published><updated>2020-02-12T16:00:00+08:00</updated><id>http://localhost:4000/taiwantrain_iphoneSE</id><content type="html" xml:base="http://localhost:4000/taiwantrain_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k08.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">過期富士的夢幻紫紅。 每捲過期底片發色與顆粒表現不盡相同，有些偏色不重但非常暗淡，有些連影像都呈現不出來，每次沖洗就像開獎一樣，不是驚喜就是驚嚇。</summary></entry><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi001" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-01-07T16:00:00+08:00</published><updated>2020-01-07T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi001</id><content type="html" xml:base="http://localhost:4000/raspberrypi001">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
+
+&lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/raspberry03.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+
+&lt;p&gt;不過想要開始玩它可沒有那麼簡單，基本上眉角還挺多的。除了灌軟體外，因為它只是主機，要用它就需要螢幕、鍵盤、滑鼠跟網路。我手邊只有 NoteBook ，所以需要藉著遠端桌面的功能，用 NoteBook 來操作 Raspberry Pi 。&lt;/p&gt;
+&lt;p&gt;網路上有許多神人教學，我主要參考了 &lt;a href=&quot;https://hugheschung.blogspot.com/2019/01/raspberry-pi.html&quot; target=&quot;_blank&quot;&gt;Raspberry Pi | 樹莓派安裝起手式：無頭式安裝法&lt;/a&gt; ，及 &lt;a href=&quot;https://blog.cavedu.com/2018/03/23/raspberry-pi-remote-desktop/&quot; target=&quot;_blank&quot;&gt; [Raspberry Pi] 如何使用遠端桌面 &lt;/a&gt;兩篇文章，順利的將 Raspberry Pi 遠端桌面設置完畢。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/raspberry01.jpg&quot; width=&quot;100%&quot; hieght=auto /&gt;&lt;/p&gt;
+&lt;p&gt;這是一台可以隨身攜帶的小電腦，輕薄、可愛、能做的事還挺多，配件加一加也不到 3K 。( 雖然已經可以預期我可能會繼續往它身上砸錢 )&lt;/p&gt;
+&lt;p&gt;好東西，不買嗎？&lt;/p&gt;</content><author><name></name></author><category term="coding" /><summary type="html">又是一個坑。 我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。</summary></entry><entry><title type="html">APP NOMO</title><link href="http://localhost:4000/app001_nomo" rel="alternate" type="text/html" title="APP NOMO" /><published>2020-01-06T16:00:00+08:00</published><updated>2020-01-06T16:00:00+08:00</updated><id>http://localhost:4000/app001_nomo</id><content type="html" xml:base="http://localhost:4000/app001_nomo">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;數位攝影普及後，底片的玩家逐漸變成小眾，很多從數位入門的攝影玩家，常常無法理解底片玩家口中的底片味到底是什麼，認為所謂的底片味後製就可以達成。的確，我本身也喜歡用各種軟體後製，不論是手機的 APP 或是常用的 PS，我也認為自己有能力後製出一張&quot;很像&quot;底片拍出來的數位相片，但，不得不說，這之中是有實質而非&quot;純粹感覺&quot;上的差異。&lt;/p&gt;
+
+&lt;p&gt;主要的差異來自於色彩的階調、層次與濃度，在一開始紀錄顏色時，底片的紀錄方式跟數位 CCD 就不同，目前我看過最接近底片色彩紀錄的數位相機來自 SIGMA 這間老牌廠商，雖然 SIGMA 的機子在使用上有許多缺點，但相片的品質還是令許多玩家趨之若鶩，可以參考 &lt;a href=&quot;https://technews.tw/2019/03/09/sigma-foveon-x3-is-back/&quot; target=&quot;_blank&quot;&gt;SIGMA FF Foveon X3&lt;/a&gt; 感光元件的描述。
+&lt;/p&gt; 
+
+&lt;p&gt;不過這篇並不是要討論 SIGMA (這鋪陳也太長)，只是要說明拍慣底片後，我真的不喜歡數位直出的相片階調 (這個只能意會很難言傳，簡單說就是比較平)，所以我用 iphoneSE 拍的相片，基本上都會先後製過才分享出來。這裡介紹一個挺有趣的 APP ，主打的族群應該是常玩底片的 LOMO 玩家，目前開放免費的效果是拍立得，做的頗到味，有興趣的可以下載試試。&lt;/p&gt;
+
+&lt;p&gt;測試的照片是今年去日本東京跨年用 iphonSE 拍攝的，因為這次帶了十幾捲底片，加上天氣太冷手機一直當機 (無法開機以及用電量直落 冏rz)，所以數位相片拍得很少。&lt;/p&gt;
+
+&lt;a href=&quot;https://apps.apple.com/tw/app/nomo-point-and-shoot/id1362548649&quot; target=&quot;_blank&quot; style=&quot;box-shadow: inset 0 -1px 0 #FFFFFF&quot;&gt;&lt;img src=&quot;assets/images/nomo01.jpg&quot;/&gt;&lt;/a&gt;
+
+&lt;hr&gt;
+camera:iphoneSE&lt;br&gt;
+app:NOMO-Point and Shoot
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo02.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo03.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo04.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo05.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo06.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo07.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo08.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo09.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/nomo10.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">所謂的底片味。 數位攝影普及後，底片的玩家逐漸變成小眾，很多從數位入門的攝影玩家，常常無法理解底片玩家口中的底片味到底是什麼，認為所謂的底片味後製就可以達成。的確，我本身也喜歡用各種軟體後製，不論是手機的 APP 或是常用的 PS，我也認為自己有能力後製出一張&quot;很像&quot;底片拍出來的數位相片，但，不得不說，這之中是有實質而非&quot;純粹感覺&quot;上的差異。</summary></entry><entry><title type="html">車站隨影</title><link href="http://localhost:4000/trip001_taiwantrain" rel="alternate" type="text/html" title="車站隨影" /><published>2020-01-05T16:00:00+08:00</published><updated>2020-01-05T16:00:00+08:00</updated><id>http://localhost:4000/trip001_taiwantrain</id><content type="html" xml:base="http://localhost:4000/trip001_taiwantrain">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現執行上有些困難，有些三等站一天只停四班車，附近非常荒涼，下班車還要等超過一個小時，不僅浪費時間，安全上也有疑慮，所以太過冷清的站暫時放棄，畢竟32天說多也不多，而且還有其他行程要走。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/train31.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
@@ -171,33 +165,40 @@ edited in photoshop&lt;br&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/train27.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/train28.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/train29.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/train30.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="trip" /><summary type="html">我花了32天坐火車環島。 離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現執行上有些困難，有些三等站一天只停四班車，附近非常荒涼，下班車還要等超過一個小時，不僅浪費時間，安全上也有疑慮，所以太過冷清的站暫時放棄，畢竟32天說多也不多，而且還有其他行程要走。</summary></entry><entry><title type="html">APP NOMO</title><link href="http://localhost:4000/tokyo_iphoneSE" rel="alternate" type="text/html" title="APP NOMO" /><published>2020-02-11T16:00:00+08:00</published><updated>2020-02-11T16:00:00+08:00</updated><id>http://localhost:4000/tokyo_iphoneSE</id><content type="html" xml:base="http://localhost:4000/tokyo_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;數位攝影普及後，底片的玩家逐漸變成小眾，很多從數位入門的攝影玩家，常常無法理解底片玩家口中的底片味到底是什麼，認為所謂的底片味後製就可以達成。的確，我本身也喜歡用各種軟體後製，不論是手機的 APP 或是常用的 PS，我也認為自己有能力後製出一張&quot;很像&quot;底片拍出來的數位相片，但，不得不說，這之中是有實質而非&quot;純粹感覺&quot;上的差異。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train30.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="trip" /><summary type="html">我花了32天坐火車環島。 離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現執行上有些困難，有些三等站一天只停四班車，附近非常荒涼，下班車還要等超過一個小時，不僅浪費時間，安全上也有疑慮，所以太過冷清的站暫時放棄，畢竟32天說多也不多，而且還有其他行程要走。</summary></entry><entry><title type="html">Maxell Aqua Park</title><link href="http://localhost:4000/video001_tokyo" rel="alternate" type="text/html" title="Maxell Aqua Park" /><published>2020-01-04T16:00:00+08:00</published><updated>2020-01-04T16:00:00+08:00</updated><id>http://localhost:4000/video001_tokyo</id><content type="html" xml:base="http://localhost:4000/video001_tokyo">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;充滿夢幻色彩的水族館。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;2016 年夏天，第一次東京自由行，規劃行程時搜尋到這個位於品川的室內水族館，被七彩的水母驚豔到，就決定一定要過來看看。&lt;/p&gt;
 
-&lt;p&gt;主要的差異來自於色彩的階調、層次與濃度，在一開始紀錄顏色時，底片的紀錄方式跟數位 CCD 就不同，目前我看過最接近底片色彩紀錄的數位相機來自 SIGMA 這間老牌廠商，雖然 SIGMA 的機子在使用上有許多缺點，但相片的品質還是令許多玩家趨之若鶩，可以參考 &lt;a href=&quot;https://technews.tw/2019/03/09/sigma-foveon-x3-is-back/&quot; target=&quot;_blank&quot;&gt;SIGMA FF Foveon X3&lt;/a&gt; 感光元件的描述。
-&lt;/p&gt; 
-
-&lt;p&gt;不過這篇並不是要討論 SIGMA (這鋪陳也太長)，只是要說明拍慣底片後，我真的不喜歡數位直出的相片階調 (這個只能意會很難言傳，簡單說就是比較平)，所以我用 iphoneSE 拍的相片，基本上都會先後製過才分享出來。這裡介紹一個挺有趣的 APP ，主打的族群應該是常玩底片的 LOMO 玩家，目前開放免費的效果是拍立得，做的頗到味，有興趣的可以下載試試。&lt;/p&gt;
-
-&lt;p&gt;測試的照片是今年去日本東京跨年用 iphonSE 拍攝的，因為這次帶了十幾捲底片，加上天氣太冷手機一直當機 (無法開機以及用電量直落 冏rz)，所以數位相片拍得很少。&lt;/p&gt;
-
-&lt;a href=&quot;https://apps.apple.com/tw/app/nomo-point-and-shoot/id1362548649&quot; target=&quot;_blank&quot; style=&quot;box-shadow: inset 0 -1px 0 #FFFFFF&quot;&gt;&lt;img src=&quot;assets/images/nomo01.jpg&quot;/&gt;&lt;/a&gt;
-
+&lt;p&gt;水族館不大，有幾個簡單的主題區，燈光效果搭配得很好，固定時間有海豚表演，算是一間很有特色的水族館，這支影片紀錄了館內的展示，使用手機做簡單的剪輯。&lt;/p&gt;
 &lt;hr&gt;
-camera:iphoneSE&lt;br&gt;
-app:NOMO-Point and Shoot
-&lt;br&gt;
-&lt;br&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo02.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo03.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo04.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo05.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo06.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo07.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo08.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo09.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/nomo10.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">所謂的底片味。 數位攝影普及後，底片的玩家逐漸變成小眾，很多從數位入門的攝影玩家，常常無法理解底片玩家口中的底片味到底是什麼，認為所謂的底片味後製就可以達成。的確，我本身也喜歡用各種軟體後製，不論是手機的 APP 或是常用的 PS，我也認為自己有能力後製出一張&quot;很像&quot;底片拍出來的數位相片，但，不得不說，這之中是有實質而非&quot;純粹感覺&quot;上的差異。</summary></entry><entry><title type="html">發霉了但也很好</title><link href="http://localhost:4000/tokyo_em" rel="alternate" type="text/html" title="發霉了但也很好" /><published>2020-02-10T16:00:00+08:00</published><updated>2020-02-10T16:00:00+08:00</updated><id>http://localhost:4000/tokyo_em</id><content type="html" xml:base="http://localhost:4000/tokyo_em">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我有一堆過期底片。&lt;/h2&gt;&lt;br&gt;
+filmed with iPhoneSE&lt;br&gt;
+music:Solitude&lt;br&gt;
+musician:Rook1e&lt;br&gt;
+
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/392344349&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="filming" /><summary type="html">充滿夢幻色彩的水族館。 2016 年夏天，第一次東京自由行，規劃行程時搜尋到這個位於品川的室內水族館，被七彩的水母驚豔到，就決定一定要過來看看。</summary></entry><entry><title type="html">Flash 時代的眼淚</title><link href="http://localhost:4000/animation001_eltv" rel="alternate" type="text/html" title="Flash 時代的眼淚" /><published>2020-01-03T16:00:00+08:00</published><updated>2020-01-03T16:00:00+08:00</updated><id>http://localhost:4000/animation001_eltv</id><content type="html" xml:base="http://localhost:4000/animation001_eltv">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;Flash 曾經是我的最愛。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;在之前公司我用 AE、FLASH 做了非常多動畫，再將它們轉成影片播出。最早的定位是兒童觀看的英文學習頻道，所以我先設計了四隻寶寶，之後所有的動畫都由此延伸，從無到有就像我的孩子一般，是我很喜歡的作品之一，我做得很開心。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/eltv01.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;整個頻道的包裝從片頭、片尾、節前、節後、形象、行銷、節慶等，一系列很完整的做完一套，感覺很滿足，這裡節錄部份我比較喜歡的影片。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;【 單字列車 】&lt;/h3&gt;
+&lt;p&gt;廣告時會有三十秒的單字列車影片，用四隻寶寶做了四個相似的版本輪流播出。&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/391808699&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt;【 頻道形象 】&lt;/h3&gt;
+&lt;p&gt;選了比較動感的音樂，用簡潔的說明表達頻道的特性。&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/391805108&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt;【 節後卡 】&lt;/h3&gt;
+&lt;p&gt;每個節目結束後，10 秒說明動畫。&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/391808818&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt;【 節慶影片 】&lt;/h3&gt;
+&lt;p&gt;幾個比較重要的節日，前兩個星期會輪播頻道自製的節慶影片。&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/391815907&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;hr&gt;
+
+&lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Flash 曾經是我的最愛。 跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。</summary></entry><entry><title type="html">發霉了但也很好</title><link href="http://localhost:4000/film001_em_tokyo" rel="alternate" type="text/html" title="發霉了但也很好" /><published>2020-01-02T16:00:00+08:00</published><updated>2020-01-02T16:00:00+08:00</updated><id>http://localhost:4000/film001_em_tokyo</id><content type="html" xml:base="http://localhost:4000/film001_em_tokyo">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我有一堆過期底片。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;以前在外面租屋，我的冰箱不是用來裝食物，而是底片，因為底片會有一股銀鹽味，不適合與食物放在一起，搬離前我將冰箱徹底清潔並拔插頭風乾，味道才消除。所以回老家後，為免污染家裡裝食物的冰箱，我便把底片存放在箱子裡。&lt;/p&gt;
 
 &lt;p&gt;停了很長一段時間沒有拍照，第一次去東京帶了十捲左右，大部份借給對攝影有興趣的同事，而我顧著玩剛買的iPhoneSE，錄了一堆影像，底片卻只拍了三捲，顆粒粗大跟變色是意料中事，只是這捲發霉特別嚴重。&lt;br&gt;&lt;br&gt;不過，我很喜歡。&lt;br&gt;
