@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-08T16:02:03+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-08T16:48:39+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
 
 &lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
@@ -84,7 +84,7 @@ film:lomo color100 &amp;amp; my heart200 (expired film)
 &lt;p&gt;&lt;img src=&quot;assets/images/k21.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">比起東京我更愛京都。 當時關西的機票與京阪住宿是提早半年就訂好的，原本猜測十一月左右楓葉應該正紅，不過真正到時其實只紅了一點，但還是覺得很美。</summary></entry><entry><title type="html">漏光了不打算修</title><link href="http://localhost:4000/busan_olymplus" rel="alternate" type="text/html" title="漏光了不打算修" /><published>2020-02-14T16:00:00+08:00</published><updated>2020-02-14T16:00:00+08:00</updated><id>http://localhost:4000/busan_olymplus</id><content type="html" xml:base="http://localhost:4000/busan_olymplus">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;喵兔是我最愛的隨身機。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;olympus mjuII 被愛用者暱稱為喵兔，手邊這台黑喵跟了我好幾年，陪我看了許多風景，到釜山拍攝的相片洗出來才發現它漏光了，電池室的擋片也掉了一小塊，因為漏光的部份在邊緣，感覺還挺有 FU 的，所以我沒打算修它。&lt;/p&gt;
 
-&lt;p&gt;不過我最近確實在搜尋第二台喵兔當作備機，只是當時二手不到兩千的價，現在被哄抬至四、五千，有些買不下手(四、五千在當時可以買新機了)。雖然知道機會渺茫，但很希望 Olympus 公司能夠再次生產這台好用的機子，即使玩底片的是小眾，但這群人可都是非常死忠且願意掏錢的喲。&lt;/p&gt; 
+&lt;p&gt;不過我最近確實在搜尋第二台喵兔當作備機，只是當時二手不到兩千的價，現在被哄抬至四、五千，有些買不下手(四、五千在當時可以買新機了)。雖然知道機會渺茫，但很希望 Olympus 公司能夠再次生產這台好用的機子，即使玩底片的是小眾，但這群人可都是非常死忠且願意掏錢的。&lt;/p&gt; 
 
 &lt;p&gt;相片在韓國釜山拍攝，那時的釜山有許多不怕人的海鷗，我在海雲台及影島拍了許多慢速影片，我很喜歡。&lt;/p&gt;
 
@@ -126,13 +126,13 @@ film:fuji sensia100 EtoC (expired film)
 &lt;p&gt;&lt;img src=&quot;assets/images/k10.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/k06.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/k08.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">過期富士的夢幻紫紅。 每捲過期底片發色與顆粒表現不盡相同，有些偏色不重但非常暗淡，有些連影像都呈現不出來，每次沖洗就像開獎一樣，不是驚喜就是驚嚇。</summary></entry><entry><title type="html">車站隨影</title><link href="http://localhost:4000/taiwantrain_iphoneSE" rel="alternate" type="text/html" title="車站隨影" /><published>2020-02-12T16:00:00+08:00</published><updated>2020-02-12T16:00:00+08:00</updated><id>http://localhost:4000/taiwantrain_iphoneSE</id><content type="html" xml:base="http://localhost:4000/taiwantrain_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現東部在執行上有些困難(班次太少，有些三等站一天只停四班車)，所以還是只走比較大的站再結合當地的腳踏車完成這趟旅行。&lt;/p&gt;
+&lt;p&gt;離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現執行上有些困難，有些三等站一天只停四班車，附近非常荒涼，下班車還要等超過一個小時，不僅浪費時間，安全上也有疑慮，所以太過冷清的站暫時放棄，畢竟32天說多也不多，而且還有其他行程要走。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/train31.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
 
-&lt;p&gt;雖然帶了隨身的底片機，但這次環島大部分的相片還是來自手機，主要是拍攝比較方便，我很常隨興就按幾張，如果用底片的話我通常會考慮較多(畢竟每張都是錢 XD)。&lt;/p&gt; 
+&lt;p&gt;這次環島雖然帶了底片機，但大部分的相片還是由手機拍攝，主要是比較方便，隨興想按就按，如果用底片的話我通常會考慮較多(畢竟每張都是錢 XD)。&lt;/p&gt; 
 
-&lt;p&gt;我從中挑選了幾張並用軟體轉成黑白。
+&lt;p&gt;我從中挑選了一些在車站裡拍攝的相片並用軟體轉成黑白。
 
 &lt;/p&gt;
 
@@ -171,7 +171,7 @@ edited in photoshop&lt;br&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/train27.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/train28.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/train29.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/train30.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">我花了32天坐火車環島。 離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現東部在執行上有些困難(班次太少，有些三等站一天只停四班車)，所以還是只走比較大的站再結合當地的腳踏車完成這趟旅行。</summary></entry><entry><title type="html">APP NOMO</title><link href="http://localhost:4000/tokyo_iphoneSE" rel="alternate" type="text/html" title="APP NOMO" /><published>2020-02-11T16:00:00+08:00</published><updated>2020-02-11T16:00:00+08:00</updated><id>http://localhost:4000/tokyo_iphoneSE</id><content type="html" xml:base="http://localhost:4000/tokyo_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/train30.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="trip" /><summary type="html">我花了32天坐火車環島。 離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現執行上有些困難，有些三等站一天只停四班車，附近非常荒涼，下班車還要等超過一個小時，不僅浪費時間，安全上也有疑慮，所以太過冷清的站暫時放棄，畢竟32天說多也不多，而且還有其他行程要走。</summary></entry><entry><title type="html">APP NOMO</title><link href="http://localhost:4000/tokyo_iphoneSE" rel="alternate" type="text/html" title="APP NOMO" /><published>2020-02-11T16:00:00+08:00</published><updated>2020-02-11T16:00:00+08:00</updated><id>http://localhost:4000/tokyo_iphoneSE</id><content type="html" xml:base="http://localhost:4000/tokyo_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;所謂的底片味。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;數位攝影普及後，底片的玩家逐漸變成小眾，很多從數位入門的攝影玩家，常常無法理解底片玩家口中的底片味到底是什麼，認為所謂的底片味後製就可以達成。的確，我本身也喜歡用各種軟體後製，不論是手機的 APP 或是常用的 PS，我也認為自己有能力後製出一張&quot;很像&quot;底片拍出來的數位相片，但，不得不說，這之中是有實質而非&quot;純粹感覺&quot;上的差異。&lt;/p&gt;
 
 &lt;p&gt;主要的差異來自於色彩的階調、層次與濃度，在一開始紀錄顏色時，底片的紀錄方式跟數位 CCD 就不同，目前我看過最接近底片色彩紀錄的數位相機來自 SIGMA 這間老牌廠商，雖然 SIGMA 的機子在使用上有許多缺點，但相片的品質還是令許多玩家趨之若鶩，可以參考 &lt;a href=&quot;https://technews.tw/2019/03/09/sigma-foveon-x3-is-back/&quot; target=&quot;_blank&quot;&gt;SIGMA FF Foveon X3&lt;/a&gt; 感光元件的描述。
