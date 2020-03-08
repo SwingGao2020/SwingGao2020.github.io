@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-08T12:50:04+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-08T13:49:44+08:00</updated><id>http://localhost:4000/</id><title type="html">Swing Gao</title><subtitle>Visual design / Program design</subtitle><entry><title type="html">Raspberry Pi</title><link href="http://localhost:4000/raspberrypi" rel="alternate" type="text/html" title="Raspberry Pi" /><published>2020-02-20T16:00:00+08:00</published><updated>2020-02-20T16:00:00+08:00</updated><id>http://localhost:4000/raspberrypi</id><content type="html" xml:base="http://localhost:4000/raspberrypi">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;又是一個坑。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;我的 NoteBook 有兩顆 500G 的 SSD 硬碟，本來想把其中一顆拿來裝 Linux ，練習架站或是學習資料庫 ，但又害怕手殘 Format 到原有的 Windows ，重灌軟體是件超級麻煩的事，所以一直拖著沒有行動。&lt;/p&gt;
 
 &lt;p&gt;得知有 &lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot;&gt;Raspberry Pi (樹莓派)&lt;/a&gt; 這個聽起來新奇的小東西，核心系統就是 Linux ，網路上還有各式各樣的玩法與介紹，想想價格跟一顆硬碟也差不了多少 ，就把它帶回家了。( 絕對不是因為它長得可愛！)&lt;/p&gt;
@@ -58,19 +58,43 @@ musician:Rook1e&lt;br&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/391815907&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;hr&gt;
 
-&lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Flash 曾經是我的最愛。 跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。</summary></entry><entry><title type="html">車站隨影</title><link href="http://localhost:4000/taiwantrain_iphoneSE" rel="alternate" type="text/html" title="車站隨影" /><published>2020-02-12T16:00:00+08:00</published><updated>2020-02-12T16:00:00+08:00</updated><id>http://localhost:4000/taiwantrain_iphoneSE</id><content type="html" xml:base="http://localhost:4000/taiwantrain_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Flash 曾經是我的最愛。 跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。</summary></entry><entry><title type="html">可遇不可求的色彩</title><link href="http://localhost:4000/kyoto_olymplus" rel="alternate" type="text/html" title="可遇不可求的色彩" /><published>2020-02-13T16:00:00+08:00</published><updated>2020-02-13T16:00:00+08:00</updated><id>http://localhost:4000/kyoto_olymplus</id><content type="html" xml:base="http://localhost:4000/kyoto_olymplus">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;過期富士的夢幻紫紅。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;每捲過期底片發色與顆粒表現不盡相同，有些偏色不重但非常暗淡，有些連影像都呈現不出來，每次沖洗就像開獎一樣，不是驚喜就是驚嚇。&lt;/p&gt;
+
+&lt;p&gt;以我之前的經驗，未過期的 fuji sensia100 正負沖時原本就會些微偏粉，只是沒想到過期的會紅的如此誇張，顏色與品質的界定從來都只是個人喜好，在我眼裡沒有對與錯，只有喜歡與否，以這捲來說，有些相片偏色看來會很有味道，有些我就不是那麼喜歡，但不可預知原本就是玩過期的樂趣之一，一捲裡只要有一張是我很喜歡的，那麼對我而言這捲就值得了。&lt;/p&gt; 
+
+&lt;p&gt;相片是 2017 年秋天，到京阪旅行時拍攝的。&lt;/p&gt;
+
+&lt;hr&gt;
+camera:olympus mjuII&lt;br&gt;
+film:fuji sensia100 EtoC (expired film) 
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/k03.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k04.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k07.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k05.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k02.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k01.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k11.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k09.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k10.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k06.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/k08.jpg&quot;/&gt;&lt;/p&gt;</content><author><name></name></author><category term="snapshot" /><summary type="html">過期富士的夢幻紫紅。 每捲過期底片發色與顆粒表現不盡相同，有些偏色不重但非常暗淡，有些連影像都呈現不出來，每次沖洗就像開獎一樣，不是驚喜就是驚嚇。</summary></entry><entry><title type="html">車站隨影</title><link href="http://localhost:4000/taiwantrain_iphoneSE" rel="alternate" type="text/html" title="車站隨影" /><published>2020-02-12T16:00:00+08:00</published><updated>2020-02-12T16:00:00+08:00</updated><id>http://localhost:4000/taiwantrain_iphoneSE</id><content type="html" xml:base="http://localhost:4000/taiwantrain_iphoneSE">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;離職前一個月，我就開始規劃環島的行程，本來預定要把台灣所有的車站都走過一遍，但發現東部在執行上有些困難(班次太少，有些三等站一天只停四班車)，所以還是只走比較大的站再結合當地的腳踏車完成這趟旅行。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/train31.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
 
 &lt;p&gt;雖然帶了隨身的底片機，但這次環島大部分的相片還是來自手機，主要是拍攝比較方便，我很常隨興就按幾張，如果用底片的話我通常會考慮較多(畢竟每張都是錢 XD)，除了照片以外，也錄了很多縮時影片。&lt;/p&gt; 
 
-&lt;p&gt;這篇隨機挑選了幾張並用軟體轉成黑白。&lt;/p&gt;
+&lt;p&gt;這篇隨機挑選了幾張並用軟體轉成黑白。
+
+&lt;/p&gt;
 
 &lt;hr&gt;
 camera:iphoneSE&lt;br&gt;
-edited in photoshop
-&lt;br&gt;
+edited in photoshop&lt;br&gt;
 &lt;br&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/train00.jpg&quot;/&gt;&lt;/p&gt;
