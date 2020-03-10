@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/trip/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-03-10T20:18:02+08:00</updated>
+  <updated>2020-03-10T22:12:21+08:00</updated>
   <id>http://localhost:4000/tag/trip/feed.xml</id>
 
   
@@ -44,28 +44,30 @@
 
   
     <entry>
-      <title type="html">火車環島 Day3</title>
-      <link href="http://localhost:4000/trip004_taiwan" rel="alternate" type="text/html" title="火車環島 Day3" />
-      <published>2020-01-08T17:00:00+08:00</published>
-      <updated>2020-01-08T17:00:00+08:00</updated>
-      <id>http://localhost:4000/trip004_taiwan</id>
-      <content type="html" xml:base="http://localhost:4000/trip004_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;崎頂秘境子母隧道。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;這一天跟朋友告別，繼續往南前進。因為不想揹著很重的背包，所以到竹南時，寄放了大部分的行李，山線往苗栗，海線往日南交互乘坐，結束後回竹南拿行李，再到台中投宿，雖然多花了一些時間與車錢，但不用負重走起來輕鬆許多。&lt;/p&gt;
-&lt;p&gt;這日總共走了崎頂、苗栗、豐富、造橋、日南、新埔、大山、談文等8站。&lt;/p&gt;
+      <title type="html">旅巷自在輕旅</title>
+      <link href="http://localhost:4000/hostel001_taiwan" rel="alternate" type="text/html" title="旅巷自在輕旅" />
+      <published>2020-01-09T17:00:00+08:00</published>
+      <updated>2020-01-09T17:00:00+08:00</updated>
+      <id>http://localhost:4000/hostel001_taiwan</id>
+      <content type="html" xml:base="http://localhost:4000/hostel001_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;CP 值超高的 Hostel 。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;我在台中旅巷自在輕旅住了五天，包含兩個假日，平均每晚只要台幣 562 元，地點就在台中火車站正對面，台中轉運站旁邊，交通超方便。&lt;/p&gt;
 
-&lt;hr&gt;
-&lt;p&gt;第一站：崎頂火車站。&lt;br&gt;崎頂是個漂亮的小站，旁邊的子母隧道充滿秘境氛圍，當天我還遇見台灣藍鵲家族，可惜牠們飛得太快沒能拍到，這裡是可以修身養性兼養蚊(?)的好所在，走過路過不可錯過。
-&lt;/p&gt;
+&lt;p&gt;男女宿舍完全分開需用房卡感應，安全性沒有問題，浴室廁所多到我懶得數，基本上不用排隊，每天早上還有手作的歐式早餐(這真的太犯規)。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/td0301-2.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/td0301-1.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/td0301-3.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/td0301-4.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/td0301-5.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;外觀雖是舊大樓，但裡頭裝潢時尚環境又乾淨，唯一的小缺點是枕頭較高睡得不習慣，其他部分都很滿意。&lt;/p&gt;
 
 
-&lt;hr&gt;
-&lt;img src=&quot;assets/images/td0399.jpg&quot;/&gt;&quot;</content>
+&lt;p&gt;&lt;img src=&quot;assets/images/h002.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h001.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h003.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h009.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h004.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h005.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h010.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h008.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h006.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h007.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h011.jpg&quot;/&gt;&lt;/p&gt;</content>
 
       
       
@@ -86,7 +88,89 @@
       
 
       
-        <summary type="html">崎頂秘境子母隧道。 這一天跟朋友告別，繼續往南前進。因為不想揹著很重的背包，所以到竹南時，寄放了大部分的行李，山線往苗栗，海線往日南交互乘坐，結束後回竹南拿行李，再到台中投宿，雖然多花了一些時間與車錢，但不用負重走起來輕鬆許多。 這日總共走了崎頂、苗栗、豐富、造橋、日南、新埔、大山、談文等8站。</summary>
+        <summary type="html">CP 值超高的 Hostel 。 我在台中旅巷自在輕旅住了五天，包含兩個假日，平均每晚只要台幣 562 元，地點就在台中火車站正對面，台中轉運站旁邊，交通超方便。</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">火車環島 Day3</title>
+      <link href="http://localhost:4000/trip004_taiwan" rel="alternate" type="text/html" title="火車環島 Day3" />
+      <published>2020-01-08T17:00:00+08:00</published>
+      <updated>2020-01-08T17:00:00+08:00</updated>
+      <id>http://localhost:4000/trip004_taiwan</id>
+      <content type="html" xml:base="http://localhost:4000/trip004_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;崎頂秘境子母隧道。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;這一天跟朋友告別，繼續往南前進。因為不想揹著很重的背包，所以到竹南時，寄放了大部分的行李，山線往苗栗，海線往日南交互乘坐，雖然多花了一些時間與車錢，但不用負重走起來輕鬆許多。&lt;/p&gt;
+
+&lt;p&gt;這日總共走了崎頂、苗栗、豐富、造橋、日南、新埔、大山、談文等8站。&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;第一站：崎頂火車站。&lt;br&gt;崎頂是個漂亮的小站，旁邊的子母隧道充滿秘境氛圍，當天我還遇見台灣藍鵲家族，可惜牠們飛得太快沒能拍到，這裡是可以修身養性兼養蚊(?)的好所在，走過路過不可錯過。
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0301.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0301-2.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0301-1.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0301-3.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0301-4.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0301-5.jpg&quot;/&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;第二站：苗栗火車站。&lt;br&gt;苗栗車站天花板是用花布裝飾的，雖然有些舊了拍起來依舊很漂亮。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0302.jpg&quot;/&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;第三站：豐富火車站。&lt;br&gt;豐富車站的造型我很喜歡，線條簡潔好看。旁邊就是高鐵及客家圓樓，客家圓樓可以免費參觀，走過來不用十分鐘，可以順道逛逛(還有冷氣吹)。然後，我已經連續三天，遇到小朋友校外教學了。XD&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0303.jpg&quot;/&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;第四站：造橋火車站。&lt;br&gt;門口的木頭扁額不錯，旁邊有日式宿舍群可參觀，那裡的鳯凰花開的挺漂亮。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0304.jpg&quot;/&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;第五站：日南火車站。&lt;br&gt;台鐵海線五寶之一，很安靜很安靜的車站，我很喜歡。而且，有ubike。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0305.jpg&quot;/&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;第六站：新埔火車站。&lt;br&gt;台鐵海線五寶之一，也是西岸離海最近的車站，去海邊的路上，有一段扶桑花小徑，遇到一隻可愛但怕人的賓士貓。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0306.jpg&quot;/&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;第七站：大山火車站。&lt;br&gt;台鐵海線五寶之一，站牌燈箱四個都拆了，可能最近要換新的？車站外是長長的斜坡，慢慢走到上面有間小七，在這裡買了瓶水啃了一顆茶葉蛋。回程正好對著日落的方向，交錯的電線挺美的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0307.jpg&quot;/&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;第八站：談文火車站。&lt;br&gt;台鐵海線五寶之一，這裡的燈箱也拆了QQ ，這站是今天最後一站，在這裡迎接日落。雖然下雨，天空還是漂亮的粉色。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0308.jpg&quot;/&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;img src=&quot;assets/images/td0399.jpg&quot;/&gt;
+
+&lt;hr&gt;
+&lt;p&gt;延伸閱讀：推薦台中住宿 &lt;a href=&quot;hostel001_taiwan.html&quot; target=&quot;_blank&quot;&gt;旅巷自在輕旅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/h012.jpg&quot;/&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="trip" />
+      
+
+      
+        <summary type="html">崎頂秘境子母隧道。 這一天跟朋友告別，繼續往南前進。因為不想揹著很重的背包，所以到竹南時，寄放了大部分的行李，山線往苗栗，海線往日南交互乘坐，雖然多花了一些時間與車錢，但不用負重走起來輕鬆許多。</summary>
       
 
       
@@ -100,7 +184,9 @@
       <updated>2020-01-07T17:00:00+08:00</updated>
       <id>http://localhost:4000/trip003_taiwan</id>
       <content type="html" xml:base="http://localhost:4000/trip003_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;香山溼地真的好美。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;這天一早是晴天，預計的行程是內灣線全線，因為支線班次較少，所以買了一日券，用來回乘坐的方式節省等車的時間，這天主要走了竹中、榮華、上員、合興、九讚頭、富貴、橫山、內灣、竹東、北新竹等10站，裡頭有許多無人站，出入站採自行刷卡(考驗大家的誠信XD)，不過車掌滿常在車上驗票，所以還是不要貪小便宜的好。&lt;/p&gt;
+&lt;p&gt;這天一早是晴天，預計的行程是內灣線全線，因為支線班次較少，所以買了一日券，用來回乘坐的方式節省等車的時間。&lt;/p&gt;
+
+&lt;p&gt;這天主要走了竹中、榮華、上員、合興、九讚頭、富貴、橫山、內灣、竹東、北新竹等10站，裡頭有許多無人站，出入站採自行刷卡(考驗大家的誠信XD)，不過車掌滿常在車上驗票，所以還是不要貪小便宜的好。&lt;/p&gt;
 
 &lt;p&gt;結束內灣線後，原本想續走六家線，但接近黃昏時看天氣好轉，當下決定改去香山溼地賭賭看能不能看到夕陽，而我慶幸自己做了這個決定。&lt;/p&gt;
 
@@ -165,7 +251,7 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/td0217.jpg&quot;/&gt;&lt;/p&gt;
 
 &lt;hr&gt;
-&lt;img src=&quot;assets/images/td0299.jpg&quot;/&gt;&quot;</content>
+&lt;img src=&quot;assets/images/td0299.jpg&quot;/&gt;</content>
 
       
       
@@ -186,7 +272,7 @@
       
 
       
-        <summary type="html">香山溼地真的好美。 這天一早是晴天，預計的行程是內灣線全線，因為支線班次較少，所以買了一日券，用來回乘坐的方式節省等車的時間，這天主要走了竹中、榮華、上員、合興、九讚頭、富貴、橫山、內灣、竹東、北新竹等10站，裡頭有許多無人站，出入站採自行刷卡(考驗大家的誠信XD)，不過車掌滿常在車上驗票，所以還是不要貪小便宜的好。</summary>
+        <summary type="html">香山溼地真的好美。 這天一早是晴天，預計的行程是內灣線全線，因為支線班次較少，所以買了一日券，用來回乘坐的方式節省等車的時間。</summary>
       
 
       
@@ -246,7 +332,7 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/td0109.jpg&quot;/&gt;&lt;/p&gt;
 
 &lt;hr&gt;
-&lt;img src=&quot;assets/images/td0199.jpg&quot;/&gt;&quot;</content>
+&lt;img src=&quot;assets/images/td0199.jpg&quot;/&gt;</content>
 
       
       
