@@ -186,22 +186,6 @@
     
       
       <item>
-        <title>車站隨影</title>
-        
-          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;離職前一個月，我就開始規劃環島的行程，原本預定一個月環島要跑遍所有車站(兩百多座)，但發現執行上有些困難，因為許多三等站光等車就要耗掉一兩個小時，有些附近也很荒涼獨自一人久待並不安全。&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 05 Jan 2020 17:00:00 +0800</pubDate>
-        <link>
-        http://localhost:4000/trip001_taiwantrain</link>
-        <guid isPermaLink="true">http://localhost:4000/trip001_taiwantrain</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>Maxell Aqua Park</title>
         
           <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;充滿夢幻色彩的水族館。&lt;/h2&gt;&lt;br&gt;
@@ -246,6 +230,22 @@
         <link>
         http://localhost:4000/film001_em_tokyo</link>
         <guid isPermaLink="true">http://localhost:4000/film001_em_tokyo</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>環島隨影</title>
+        
+          <description>&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;我花了32天坐火車環島。&lt;/h2&gt;&lt;br&gt;
+&lt;p&gt;離職前一個月，我就開始規劃環島行程，原本預定一個月環島要跑遍所有車站(兩百多座)，但發現執行上有些困難，因為許多三等站光等車就要耗掉一兩個小時，有些附近也很荒涼獨自一人久待並不安全。&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 01 Jan 2020 17:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/trip001_taiwantrain</link>
+        <guid isPermaLink="true">http://localhost:4000/trip001_taiwantrain</guid>
       </item>
       
     
