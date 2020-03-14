@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/design/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-03-11T01:55:09+08:00</updated>
+  <updated>2020-03-15T01:00:06+08:00</updated>
   <id>http://localhost:4000/tag/design/feed.xml</id>
 
   
@@ -51,12 +51,12 @@
       <id>http://localhost:4000/animation001_eltv</id>
       <content type="html" xml:base="http://localhost:4000/animation001_eltv">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;Flash 曾經是我的最愛。&lt;/h2&gt;&lt;br&gt;
 &lt;p&gt;跟 After Effect 密密麻麻的面版指令相較起來，它顯得格外簡單，也因為單純，沒有強大的外掛特效套件可以引用，製作時的動作細節與關鍵影格的配置便更加重要，是很適合訓練動畫基礎的工具。&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr&gt;&lt;br&gt;
 
 &lt;p&gt;在之前公司我用 AE、FLASH 做了非常多動畫，再將它們轉成影片播出。最早的定位是兒童觀看的英文學習頻道，所以我先設計了四隻寶寶，之後所有的動畫都由此延伸，從無到有就像我的孩子一般，是我很喜歡的作品之一，我做得很開心。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/eltv01.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;整個頻道的包裝從片頭、片尾、節前、節後、形象、行銷、節慶等，一系列很完整的做完一套，感覺很滿足，這裡節錄部份我比較喜歡的影片。&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr&gt;&lt;br&gt;
 &lt;h3&gt;【 單字列車 】&lt;/h3&gt;
 &lt;p&gt;廣告時會有三十秒的單字列車影片，用四隻寶寶做了四個相似的版本輪流播出。&lt;/p&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/391808699&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
@@ -69,7 +69,7 @@
 &lt;h3&gt;【 節慶影片 】&lt;/h3&gt;
 &lt;p&gt;幾個比較重要的節日，前兩個星期會輪播頻道自製的節慶影片。&lt;/p&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/391815907&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;hr&gt;
+&lt;hr&gt;&lt;br&gt;
 
 &lt;p&gt;幾乎所有流覽器都已經慢慢放棄支援 Flash ，早期大家不上班不睡覺，全民瘋偷菜的 Flash 遊戲盛況已不復見，之後我能使用它的機會也愈來愈少，曾經靠它吃穿一陣子，現在莫名有些感傷。QQ&lt;/p&gt;</content>
 
