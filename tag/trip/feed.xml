@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/trip/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-03-23T23:07:35+08:00</updated>
+  <updated>2020-03-24T01:47:47+08:00</updated>
   <id>http://localhost:4000/tag/trip/feed.xml</id>
 
   
@@ -62,6 +62,7 @@
 &lt;p&gt;嘉義車站也是阿里山線上山的起點站，為一等站，旅客人次排名全國第 13 名。車站裡的旅客服務中心人員相當親切，替我解答了很多交通的疑慮，讓我留下很好的印象。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td1006.jpg&quot;/&gt;&lt;/p&gt;
 
+&lt;br&gt;
 &lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;蘭潭環潭不見潭。&lt;/h3&gt;
 &lt;p&gt;原本來蘭潭只是為了看藝術家王文志的作品「月影潭心」，後來 GOOGLE 查了一下旁邊的環潭公路一圈好像沒幾公里，又能一直看著湖潭美景，散步走走應該挺愜意，而事實證明我實在太天真 XD ，因為真正看的到潭的路段佔不到五分之一，加上當天非常炎熱，我的腳指水泡也還沒好，走了 3.5 公里到達崇仁醫護專校，看見公車站牌時真的大大鬆了一口氣。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td1001.jpg&quot;/&gt;&lt;/p&gt;
@@ -99,7 +100,7 @@
 
 &lt;br&gt;
 &lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;入夜點亮的森林之歌。&lt;/h3&gt;
-&lt;p&gt;「森林之歌」也是王文志的作品，知道它夜晚會點燈，所以黃昏時就到這裡等著了。這裡離鐵道很近，也是拍火車不錯的地點，只是公園裡蚊子實在很多，要久待最好還是做好防蚊準備。&lt;/p&gt;
+&lt;p&gt;「森林之歌」也是王文志的作品，知道它夜晚會點燈，所以黃昏時就到這裡等著了。這裡離鐵道很近，也是拍火車不錯的地點，不過公園裡蚊子實在很多，要久待最好還是做好防蚊準備。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td1005.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td1005-1.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td1005-2.jpg&quot;/&gt;&lt;/p&gt;
@@ -138,8 +139,8 @@
     </entry>
   
     <entry>
-      <title type="html">書旅拾光</title>
-      <link href="http://localhost:4000/hostel002_taiwan" rel="alternate" type="text/html" title="書旅拾光" />
+      <title type="html">BoBooks 書旅拾光</title>
+      <link href="http://localhost:4000/hostel002_taiwan" rel="alternate" type="text/html" title="BoBooks 書旅拾光" />
       <published>2020-01-17T17:00:00+08:00</published>
       <updated>2020-01-17T17:00:00+08:00</updated>
       <id>http://localhost:4000/hostel002_taiwan</id>
@@ -196,15 +197,19 @@
       <published>2020-01-16T17:00:00+08:00</published>
       <updated>2020-01-16T17:00:00+08:00</updated>
       <id>http://localhost:4000/trip010_taiwan</id>
-      <content type="html" xml:base="http://localhost:4000/trip010_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;盡情享受溪頭芬多精。&lt;/h2&gt;&lt;br&gt;
+      <content type="html" xml:base="http://localhost:4000/trip010_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;日月潭朝霧碼頭、溪頭自然教育園區、水里站。&lt;/h2&gt;&lt;br&gt;
+
 &lt;p&gt;朝霧碼頭的日出，因濃霧無緣見到了，而原本預定的自行車環湖，因萬里無雲熱到瘋，確定 PASS ，在站牌看到直達溪頭的公車，就臨時起意往溪頭避暑去了。&lt;/p&gt;
 
 &lt;p&gt;逛完溪頭坐公車下山，在水里吃了個肉圓，再轉火車直達嘉義住宿，雖然避了暑，但走了兩萬七千多步，我的腳指水泡更加嚴重，不過心情依舊很愉快。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/td0998.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
-
 &lt;hr&gt;&lt;br&gt;
-&lt;p&gt;推薦：山水一色的朝霧碼頭。&lt;br&gt;清晨天還沒亮，便徒步至朝霧碼頭，現場已有許多攝影人架好腳架等待破曉，還有幾位勇健的阿伯正在練習橫渡日月潭，只可惜今天的霧很濃，很遺憾沒有見到日出。在碼頭晃到七點多，便回飯店吃早餐，吃到一半雲霧開了，總算見到寶藍色的湖水，山水一色實在很美。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0999.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0998.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;br&gt;
+
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;山水一色的朝霧碼頭。&lt;/h3&gt;
+&lt;p&gt;清晨天還沒亮，便徒步至朝霧碼頭，現場已有許多攝影人架好腳架等待破曉，還有幾位勇健的阿伯正在練習橫渡日月潭，只可惜今天的霧很濃，很遺憾沒有見到日出。在碼頭晃到七點多，便回飯店吃早餐，吃到一半雲霧開了，總算見到湛藍的湖水，山水一色實在很美。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0901-4.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0901-1.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0901-5.jpg&quot;/&gt;&lt;/p&gt;
@@ -212,25 +217,23 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/td0901-7.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0901-8.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;推薦：溪頭自然教育園區。&lt;br&gt;溪頭實在是避暑的好地方，森林裡充滿天然的冷氣，我一路大口呼吸，讓新鮮的空氣填滿我的肺，在路上遇見一隻漂亮的藪鳥，我用手機靠近牠拍了一陣子牠都沒有逃開，感覺這裡的鳥不是很怕人。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;溪頭自然教育園區。&lt;/h3&gt;
+&lt;p&gt;溪頭實在是避暑的好地方，森林裡充滿天然的冷氣，我一路大口呼吸，讓新鮮的空氣填滿我的肺。在路上遇見一隻寶藍羽毛的白尾鴝，還有一隻可愛的藪鳥跟我大眼瞪小眼，感覺不是很怕人。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0902-2.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0902-3.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0902-5.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0902-1.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0902-4.jpg&quot;/&gt;&lt;/p&gt;
 
-
-
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;第一站：水里火車站。&lt;br&gt;從溪頭坐公車至水里，是為了轉火車至嘉義，不過既然來了，就在附近晃了一圈，吃了一碗有五香調味的肉圓。&lt;br&gt;不知道是季節的關係還是一直如此，水里車站的月台上有許多黑色的大螞蟻，兩個小朋友蹲在月台邊觀察它們，我原本以為小朋友也是要坐火車的，結果沒多久他們就蹦蹦跳跳離開月台到別的地方玩耍去了。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;集集線：水里站。&lt;/h3&gt;
+&lt;p&gt;水里站為簡易站，由二水站負責管理。不知道是季節的關係還是一直如此，水里車站的月台上有許多黑色的大螞蟻，兩個小朋友蹲在月台邊觀察它們，我原本以為小朋友也是要坐火車的，結果沒多久他們就蹦蹦跳跳離開月台到別的地方玩耍去了。從溪頭坐公車來這，是為了轉火車至嘉義，但既然來了就在附近晃了一圈，吃了一碗有五香調味的肉圓，便宜又好吃。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0903.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;img src=&quot;assets/images/td0999.jpg&quot;/&gt;
-
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;推薦嘉義住宿：&lt;a href=&quot;hostel002_taiwan.html&quot; target=&quot;_blank&quot;&gt;書旅拾光&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;
+&lt;p&gt;推薦嘉義住宿：&lt;a href=&quot;hostel002_taiwan.html&quot; target=&quot;_blank&quot;&gt;BoBooks 書旅拾光&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;hostel002_taiwan.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;assets/images/h02-14.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;</content>
 
       
@@ -252,7 +255,7 @@
       
 
       
-        <summary type="html">盡情享受溪頭芬多精。 朝霧碼頭的日出，因濃霧無緣見到了，而原本預定的自行車環湖，因萬里無雲熱到瘋，確定 PASS ，在站牌看到直達溪頭的公車，就臨時起意往溪頭避暑去了。</summary>
+        <summary type="html">日月潭朝霧碼頭、溪頭自然教育園區、水里站。</summary>
       
 
       
@@ -317,7 +320,12 @@
       <updated>2020-01-14T17:00:00+08:00</updated>
       <id>http://localhost:4000/trip009_taiwan</id>
       <content type="html" xml:base="http://localhost:4000/trip009_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;變幻莫測的日月潭。&lt;/h2&gt;&lt;br&gt;
-&lt;p&gt;收拾完行李，一早便離開台中直奔日月潭。日月潭是台灣指標性景點之一，住在北部的我就來了好多次，可惜今天天氣不是很好，藍天都被大片的烏雲遮蔽了，湖水顯得暗淡許多。&lt;/p&gt;
+
+&lt;p&gt;收拾完行李，一早便離開台中直奔日月潭，日月潭是台灣指標性景點之一，住在北部的我就來了好多次，可惜今天天氣不是很好，藍天都被大片的烏雲遮蔽了，湖水顯得暗淡許多。&lt;/p&gt;
+
+&lt;hr&gt;&lt;br&gt;
+&lt;img src=&quot;assets/images/td0899.jpg&quot; width=&quot;100%&quot;/&gt;
+&lt;hr&gt;&lt;br&gt;
 
 &lt;p&gt;這次選擇住在朝霧碼頭旁，是為了隔日一早可以拍日出，原本寄放完行李就打算騎腳踏車環湖，但民宿老闆說近幾日下午都有雷陣雨，建議我隔日早上再騎，所以就改為坐船環湖了。&lt;/p&gt;
 
@@ -337,11 +345,9 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/td0801-12.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0801-13.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;img src=&quot;assets/images/td0899.jpg&quot;/&gt;
-
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;推薦日月潭住宿： &lt;a href=&quot;hotel001_taiwan.html&quot; target=&quot;_blank&quot;&gt;朝霧渡假餐飲小棧&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;
+  &lt;p&gt;推薦日月潭住宿： &lt;a href=&quot;hotel001_taiwan.html&quot; target=&quot;_blank&quot;&gt;朝霧渡假餐飲小棧&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;hotel001_taiwan.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;assets/images/h01-10.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;</content>
 
       
@@ -363,7 +369,7 @@
       
 
       
-        <summary type="html">變幻莫測的日月潭。 收拾完行李，一早便離開台中直奔日月潭。日月潭是台灣指標性景點之一，住在北部的我就來了好多次，可惜今天天氣不是很好，藍天都被大片的烏雲遮蔽了，湖水顯得暗淡許多。</summary>
+        <summary type="html">變幻莫測的日月潭。</summary>
       
 
       
@@ -376,15 +382,19 @@
       <published>2020-01-13T17:00:00+08:00</published>
       <updated>2020-01-13T17:00:00+08:00</updated>
       <id>http://localhost:4000/trip008_taiwan</id>
-      <content type="html" xml:base="http://localhost:4000/trip008_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;適合全家出遊的車埕園區。&lt;/h2&gt;&lt;br&gt;
+      <content type="html" xml:base="http://localhost:4000/trip008_taiwan">&lt;h2 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;田中站、二水站、泉源站、濁水站、車埕站、二水自行車道、波蘿蜜自行車道。&lt;/h2&gt;&lt;br&gt;
+
 &lt;p&gt;原本預定直接坐到二水騎腳踏車，卻在田中站看見「傳說中」的集集線石虎花豹列車，就不小心坐上去了 XD ，坐到終點站車埕晃了一下，就回到二水接續我的自行車之旅。&lt;/p&gt;
 
 &lt;p&gt;這日總共走了田中、二水、車埕、泉源、濁水五個車站，腳踏車里程則是二水車站至濁水車站來回約 30 公里。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/td0798.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
-
 &lt;hr&gt;&lt;br&gt;
-&lt;p&gt;第一站：田中火車站。&lt;br&gt;原本要坐到二水的，但在這裡碰上了正要出發的集集線，看見未來可能會修改的石虎花豹列車，就很隨興的上了 XD 。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0799.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/td0798.jpg&quot; width=&quot;100%&quot;/&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;br&gt;
+
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;縱貫線南段：田中站。&lt;/h3&gt;
+&lt;p&gt;田中站為二等站，也是集集線的首站，許多往集集的遊客會選擇在這裡或是二水換車。而我原本要坐到二水騎腳踏車，卻在這裡碰上了正要往集集出發的石虎(花豹)列車，就很隨興的上了 XD 。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0701-5.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0701-4.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0701.jpg&quot;/&gt;&lt;/p&gt;
@@ -392,12 +402,14 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/td0701-2.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0701-3.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;第二站：車埕火車站。&lt;br&gt;今天的車埕人不是普通的多，在園區晃了一下就又坐回二水準備騎腳踏車了。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;集集線：車埕站。&lt;/h3&gt;
+&lt;p&gt;車埕是集集線的終點站，為簡易站，由二水站管理。以前埔里糖廠會將糖用台車送到車埕再運出去，所以車埕站有許多台車擺放著。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0702.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;推薦：車埕園區。&lt;br&gt;集集線終站車埕，是個適合全家出遊溜小孩的好去處，有吃有玩景色也不錯。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;車埕木業產示館。&lt;/h3&gt;
+&lt;p&gt;車埕是個適合全家出遊溜小孩的好去處，有吃有玩景色也不錯。今天假日人不是普通的多，我只待了一會就坐車回二水了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0703.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0703-1.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0703-2.jpg&quot;/&gt;&lt;/p&gt;
@@ -408,20 +420,24 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/td0703-7.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0703-8.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;第三站：二水火車站。&lt;br&gt;因為跑到月台尾端拍照，引來站務員關切，得知我是坐火車環島後，就很親切的幫我加油，覺得很開心。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;縱貫線南段：二水站。&lt;/h3&gt;
+&lt;p&gt;二水站為二等站，這裡是集集線與縱貫線南段的分歧點。這天我因為跑到月台尾端拍照，引來站務員關切。得知我是坐火車環島後，就很親切的幫我加油，覺得很開心。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0704.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;第四站：源泉火車站。&lt;br&gt;源泉是招呼站，就建在社區𥚃面，幾個阿公阿媽坐在月台上聊天，是個完全融入社區生活的鐵路車站。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;集集線：源泉站。&lt;/h3&gt;
+&lt;p&gt;源泉站是招呼站，由二水站管理。月台旁邊就是住家公寓，幾個沒有要搭車的阿公阿媽直接坐在月台上聊天，這是個完全融入社區生活的車站。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0705.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;第五站：濁水火車站。&lt;br&gt;在這遇到一隻可愛的黑貓，因為騎來的途中有些迷路，導致時間比想像中晚了，所以沒待多久就原途折返。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;集集線：濁水站。&lt;/h3&gt;
+&lt;p&gt;濁水站為簡易站，由二水站管理。因為位於名間鄉，原本取作名間車站。921 大地震時站房全毀，2003 年才又修建完成。我在這遇到一隻可愛的黑貓，因為騎來的途中有些迷路，導致時間比想像中晚了，所以沒能久待就原途折返。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0706.jpg&quot;/&gt;&lt;/p&gt;
 
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;有待改進的：二水自行車道。&lt;br&gt;今天很涼爽非常適合騎車(但拍照就不是那麼好看了)，從二水車站騎到濁水車站，來回約 30 公里左右，有不錯的田園風景，不過車道年久失修，假日騎車人數不超過五個，中間有些指示也不是非常清楚，沿路邊騎邊抓濁水車站的方向，回程小迷路騎了段不同的路線，還好及時在天黑前回二水還車。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;二水自行車道、波蘿蜜自行車道。&lt;/h3&gt;
+&lt;p&gt;二水自行車道起點為二水車站，終點為八堡圳公園，再由八堡圳公園走波蘿蜜自行車道至濁水車站，來回約騎了 30 公里。今天很涼爽非常適合騎車，沿途也有不錯的田園景觀，不過車道年久失修，假日騎車人數不超過五個，中間有些指示也不是非常清楚，我沿路邊騎邊 GOOGLE 濁水車站的方向，回程還小迷路騎了段不同的路線，還好及時在天黑前回二水站還車。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0707.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0707-1.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0707-2.jpg&quot;/&gt;&lt;/p&gt;
@@ -432,12 +448,9 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/td0707-7.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/td0707-8.jpg&quot;/&gt;&lt;/p&gt;
 
-
-&lt;hr&gt;&lt;br&gt;
-&lt;img src=&quot;assets/images/td0799.jpg&quot;/&gt;
-
-&lt;hr&gt;&lt;br&gt;
-&lt;p&gt;推薦台中住宿：&lt;a href=&quot;hostel001_taiwan.html&quot; target=&quot;_blank&quot;&gt;旅巷自在輕旅&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 style=&quot;font-family:Microsoft JhengHei,微軟正黑體&quot;&gt;
+&lt;p&gt;推薦台中住宿：&lt;a href=&quot;hostel001_taiwan.html&quot; target=&quot;_blank&quot;&gt;旅巷自在輕旅&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;hostel001_taiwan.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;assets/images/h012.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;</content>
 
       
@@ -459,7 +472,7 @@
       
 
       
-        <summary type="html">適合全家出遊的車埕園區。 原本預定直接坐到二水騎腳踏車，卻在田中站看見「傳說中」的集集線石虎花豹列車，就不小心坐上去了 XD ，坐到終點站車埕晃了一下，就回到二水接續我的自行車之旅。</summary>
+        <summary type="html">田中站、二水站、泉源站、濁水站、車埕站、二水自行車道、波蘿蜜自行車道。</summary>
       
 
       
